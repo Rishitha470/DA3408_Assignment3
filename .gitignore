@@ -1,0 +1,23 @@
+# Large datasets
+data/trips/
+data/trips_excluded/
+*.parquet
+data/output/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
+*.key

@@ -1,0 +1,52 @@
+services:
+  ray-head:
+    image: rayproject/ray:2.9.3-py310
+    container_name: ray-head
+    mem_limit: "1g"
+    command: 
+      ray start --head
+      --port=6379
+      --dashboard-host=0.0.0.0
+      --dashboard-port=8265
+      --num-cpus=1
+      --object-store-memory=200000000
+      --block
+    ports:
+      - "8265:8265"
+      - "6379:6379"
+    shm_size: "512mb"
+    volumes:
+      - ./:/ray-apps
+      - ./data:/ray-data
+
+  ray-worker-a:
+    image: rayproject/ray:2.9.3-py310
+    container_name: ray-worker-a
+    mem_limit: "1g"
+    command: 
+      ray start
+      --address=ray-head:6379
+      --num-cpus=1
+      --object-store-memory=200000000
+      --block
+    depends_on: [ray-head]
+    shm_size: "512mb"
+    volumes:
+      - ./:/ray-apps
+      - ./data:/ray-data
+
+  ray-worker-b:
+    image: rayproject/ray:2.9.3-py310
+    container_name: ray-worker-b
+    mem_limit: "1g"
+    command: 
+      ray start
+      --address=ray-head:6379
+      --num-cpus=1
+      --object-store-memory=200000000
+      --block
+    depends_on: [ray-head]
+    shm_size: "512mb"
+    volumes:
+      - ./:/ray-apps
+      - ./data:/ray-data

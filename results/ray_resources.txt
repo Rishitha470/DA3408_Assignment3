@@ -1,0 +1,2244 @@
+07:10:02 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       7.44%     452.2MiB / 1GiB     44.16%    5.78MB / 1.73MB   37.3MB / 2.72MB   186
+5c99909656bc   ray-worker-a   4.77%     253MiB / 1GiB       24.71%    884kB / 2.88MB    12.7MB / 1.06MB   94
+5c09dccfde3c   ray-worker-b   7.66%     252.9MiB / 1GiB     24.70%    882kB / 2.88MB    8.73MB / 1.06MB   93
+07:10:06 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       21.24%    451.8MiB / 1GiB     44.12%    5.83MB / 1.75MB   37.3MB / 2.75MB   186
+5c99909656bc   ray-worker-a   9.12%     253.3MiB / 1GiB     24.74%    891kB / 2.9MB     12.7MB / 1.06MB   94
+5c09dccfde3c   ray-worker-b   6.26%     253.1MiB / 1GiB     24.71%    887kB / 2.89MB    8.73MB / 1.06MB   93
+07:10:10 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.20%    451.7MiB / 1GiB     44.11%    5.86MB / 1.76MB   37.3MB / 2.76MB   186
+5c99909656bc   ray-worker-a   7.28%     252.4MiB / 1GiB     24.65%    896kB / 2.92MB    12.7MB / 1.08MB   94
+5c09dccfde3c   ray-worker-b   14.42%    252.7MiB / 1GiB     24.68%    898kB / 2.93MB    8.73MB / 1.08MB   93
+07:10:14 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.40%    451.8MiB / 1GiB     44.13%    5.92MB / 1.77MB   37.3MB / 2.77MB   186
+5c99909656bc   ray-worker-a   6.01%     253.1MiB / 1GiB     24.72%    904kB / 2.95MB    12.7MB / 1.08MB   94
+5c09dccfde3c   ray-worker-b   5.68%     252.7MiB / 1GiB     24.68%    903kB / 2.95MB    8.73MB / 1.08MB   93
+07:10:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       13.83%    451.4MiB / 1GiB     44.08%    5.97MB / 1.79MB   37.3MB / 2.8MB    186
+5c99909656bc   ray-worker-a   7.62%     253.1MiB / 1GiB     24.72%    911kB / 2.97MB    12.7MB / 1.08MB   94
+5c09dccfde3c   ray-worker-b   5.47%     253.2MiB / 1GiB     24.73%    907kB / 2.96MB    8.73MB / 1.08MB   93
+07:10:23 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.22%    451.9MiB / 1GiB     44.13%    6MB / 1.8MB      37.3MB / 2.81MB   186
+5c99909656bc   ray-worker-a   4.41%     252.8MiB / 1GiB     24.69%    916kB / 2.99MB   12.7MB / 1.1MB    94
+5c09dccfde3c   ray-worker-b   3.74%     252.9MiB / 1GiB     24.70%    915kB / 2.99MB   8.73MB / 1.09MB   93
+07:10:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.49%    451.9MiB / 1GiB     44.13%    6.06MB / 1.81MB   37.3MB / 2.82MB   186
+5c99909656bc   ray-worker-a   8.36%     253.1MiB / 1GiB     24.71%    923kB / 3.02MB    12.7MB / 1.1MB    94
+5c09dccfde3c   ray-worker-b   5.71%     253.2MiB / 1GiB     24.72%    923kB / 3.02MB    8.73MB / 1.09MB   93
+07:10:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       20.81%    452.1MiB / 1GiB     44.15%    6.09MB / 1.82MB   37.3MB / 2.84MB   186
+5c99909656bc   ray-worker-a   7.77%     253MiB / 1GiB       24.70%    928kB / 3.03MB    12.7MB / 1.11MB   94
+5c09dccfde3c   ray-worker-b   8.16%     252.7MiB / 1GiB     24.67%    927kB / 3.03MB    8.73MB / 1.11MB   93
+07:10:34 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       126.22%   577.1MiB / 1GiB     56.35%    6.12MB / 1.84MB   46.4MB / 2.84MB   244
+5c99909656bc   ray-worker-a   118.92%   301.8MiB / 1GiB     29.48%    949kB / 3.07MB    19.9MB / 1.11MB   117
+5c09dccfde3c   ray-worker-b   110.75%   299.4MiB / 1GiB     29.24%    948kB / 3.07MB    13.7MB / 1.11MB   116
+07:10:38 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       18.54%    552MiB / 1GiB       53.91%    6.24MB / 1.89MB   47.2MB / 5.33MB   248
+5c99909656bc   ray-worker-a   38.96%    450.6MiB / 1GiB     44.00%    960kB / 3.11MB    77.1MB / 2.19MB   125
+5c09dccfde3c   ray-worker-b   48.61%    431.3MiB / 1GiB     42.12%    959kB / 3.11MB    75.1MB / 1.17MB   126
+07:10:47 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       42.15%    516.8MiB / 1GiB     50.47%    6.42MB / 1.94MB   55.5MB / 51MB     248
+5c99909656bc   ray-worker-a   14.86%    363.9MiB / 1GiB     35.53%    989kB / 3.21MB    81.5MB / 10.7MB   125
+5c09dccfde3c   ray-worker-b   67.25%    577.4MiB / 1GiB     56.39%    984kB / 3.19MB    78.4MB / 1.19MB   126
+07:11:08 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       25.31%    475.1MiB / 1GiB     46.40%    6.58MB / 1.99MB   60.7MB / 101MB    248
+5c99909656bc   ray-worker-a   24.26%    353MiB / 1GiB       34.47%    1.01MB / 3.29MB   82.3MB / 23.2MB   125
+5c09dccfde3c   ray-worker-b   34.33%    786.8MiB / 1GiB     76.83%    1.01MB / 3.27MB   78.4MB / 1.23MB   126
+07:11:21 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       169.19%   475.8MiB / 1GiB     46.46%    6.66MB / 2.01MB   74.4MB / 117MB    248
+5c99909656bc   ray-worker-a   44.85%    349.2MiB / 1GiB     34.10%    1.03MB / 3.34MB   82.3MB / 27.1MB   125
+5c09dccfde3c   ray-worker-b   34.96%    359MiB / 1GiB       35.06%    1.02MB / 3.31MB   80.4MB / 1.25MB   126
+07:11:28 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       127.30%   493.1MiB / 1GiB     48.16%    6.75MB / 2.04MB   83.7MB / 143MB    251
+5c99909656bc   ray-worker-a   18.10%    349.1MiB / 1GiB     34.09%    1.04MB / 3.38MB   82.3MB / 27.1MB   125
+5c09dccfde3c   ray-worker-b   32.99%    359.4MiB / 1GiB     35.10%    1.03MB / 3.34MB   80.4MB / 1.25MB   126
+07:11:32 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       187.13%   558.4MiB / 1GiB     54.53%    6.79MB / 2.05MB   129MB / 143MB     252
+5c99909656bc   ray-worker-a   14.93%    349.6MiB / 1GiB     34.14%    1.05MB / 3.4MB    82.3MB / 27.1MB   125
+5c09dccfde3c   ray-worker-b   25.62%    359.3MiB / 1GiB     35.09%    1.04MB / 3.38MB   80.4MB / 1.27MB   126
+07:11:37 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       316.41%   637.3MiB / 1GiB     62.24%    6.87MB / 2.08MB   159MB / 143MB     285
+5c99909656bc   ray-worker-a   101.07%   353.6MiB / 1GiB     34.53%    1.06MB / 3.44MB   82.3MB / 27.1MB   126
+5c09dccfde3c   ray-worker-b   45.78%    359.6MiB / 1GiB     35.12%    1.05MB / 3.4MB    80.4MB / 1.27MB   126
+07:11:43 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       157.31%   829.2MiB / 1GiB     80.97%    6.95MB / 2.11MB   192MB / 156MB     287
+5c99909656bc   ray-worker-a   60.07%    379.4MiB / 1GiB     37.05%    1.07MB / 3.48MB   82.3MB / 29.1MB   136
+5c09dccfde3c   ray-worker-b   23.01%    359.8MiB / 1GiB     35.14%    1.06MB / 3.44MB   80.4MB / 1.29MB   126
+07:11:52 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       136.05%   857.1MiB / 1GiB     83.70%    7.07MB / 2.15MB   192MB / 188MB     287
+5c99909656bc   ray-worker-a   84.24%    382.1MiB / 1GiB     37.31%    1.11MB / 3.56MB   83.4MB / 38MB     149
+5c09dccfde3c   ray-worker-b   9.38%     360MiB / 1GiB       35.15%    1.08MB / 3.49MB   80.4MB / 1.31MB   126
+07:12:04 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       80.80%    895.1MiB / 1GiB     87.42%    7.19MB / 2.19MB   192MB / 223MB     287
+5c99909656bc   ray-worker-a   101.06%   393.2MiB / 1GiB     38.40%    1.13MB / 3.62MB   85.6MB / 43.1MB   151
+5c09dccfde3c   ray-worker-b   16.47%    359.9MiB / 1GiB     35.15%    1.09MB / 3.55MB   80.4MB / 1.37MB   126
+07:12:14 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       133.38%   920.5MiB / 1GiB     89.89%    7.32MB / 2.23MB   193MB / 275MB     287
+5c99909656bc   ray-worker-a   15.56%    390.2MiB / 1GiB     38.11%    1.15MB / 3.69MB   85.7MB / 46.9MB   153
+5c09dccfde3c   ray-worker-b   28.85%    360.1MiB / 1GiB     35.16%    1.11MB / 3.59MB   80.4MB / 1.39MB   126
+07:12:24 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       109.61%   975.2MiB / 1GiB     95.23%    7.48MB / 2.27MB   193MB / 290MB     287
+5c99909656bc   ray-worker-a   16.32%    372.3MiB / 1GiB     36.36%    1.18MB / 3.79MB   85.7MB / 66.4MB   153
+5c09dccfde3c   ray-worker-b   12.45%    360.8MiB / 1GiB     35.24%    1.13MB / 3.67MB   80.4MB / 1.43MB   126
+07:12:39 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       93.18%    413.9MiB / 1GiB     40.42%    7.53MB / 2.3MB    200MB / 294MB     230
+5c99909656bc   ray-worker-a   26.72%    282.2MiB / 1GiB     27.56%    1.19MB / 3.84MB   85.7MB / 66.4MB   122
+5c09dccfde3c   ray-worker-b   13.66%    260.9MiB / 1GiB     25.48%    1.14MB / 3.7MB    81MB / 1.43MB     93
+07:12:43 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       96.98%    327.3MiB / 1GiB     31.96%    7.6MB / 2.31MB    202MB / 294MB     213
+5c99909656bc   ray-worker-a   58.74%    282.9MiB / 1GiB     27.63%    1.2MB / 3.86MB    85.7MB / 66.4MB   122
+5c09dccfde3c   ray-worker-b   28.25%    261.7MiB / 1GiB     25.55%    1.15MB / 3.72MB   81MB / 1.45MB     93
+07:12:47 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       89.56%    327.7MiB / 1GiB     32.00%    7.66MB / 2.33MB   202MB / 294MB     213
+5c99909656bc   ray-worker-a   51.23%    283MiB / 1GiB       27.63%    1.21MB / 3.89MB   85.7MB / 66.4MB   122
+5c09dccfde3c   ray-worker-b   32.57%    261.5MiB / 1GiB     25.54%    1.16MB / 3.74MB   81MB / 1.45MB     93
+07:12:51 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       118.18%   327.3MiB / 1GiB     31.96%    7.72MB / 2.35MB   202MB / 294MB     213
+5c99909656bc   ray-worker-a   69.81%    283MiB / 1GiB       27.64%    1.22MB / 3.93MB   85.7MB / 66.4MB   122
+5c09dccfde3c   ray-worker-b   55.70%    261.4MiB / 1GiB     25.53%    1.16MB / 3.76MB   81MB / 1.47MB     93
+07:12:56 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       90.00%    327.1MiB / 1GiB     31.94%    7.76MB / 2.36MB   202MB / 294MB     213
+5c99909656bc   ray-worker-a   46.42%    282.7MiB / 1GiB     27.61%    1.22MB / 3.95MB   85.7MB / 66.4MB   122
+5c09dccfde3c   ray-worker-b   46.58%    261.4MiB / 1GiB     25.52%    1.17MB / 3.79MB   81MB / 1.47MB     93
+07:13:00 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       74.03%    327.1MiB / 1GiB     31.94%    7.82MB / 2.37MB   202MB / 295MB     213
+5c99909656bc   ray-worker-a   58.62%    282.9MiB / 1GiB     27.63%    1.23MB / 3.98MB   85.7MB / 66.4MB   122
+5c09dccfde3c   ray-worker-b   66.55%    261.6MiB / 1GiB     25.54%    1.18MB / 3.81MB   81MB / 1.49MB     93
+07:13:05 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       114.25%   327.5MiB / 1GiB     31.98%    7.86MB / 2.38MB   202MB / 295MB     213
+5c99909656bc   ray-worker-a   71.12%    282.8MiB / 1GiB     27.62%    1.24MB / 4.02MB   85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   53.63%    261.4MiB / 1GiB     25.53%    1.18MB / 3.84MB   81MB / 1.52MB     93
+07:13:09 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       96.34%    327.7MiB / 1GiB     32.01%    7.92MB / 2.4MB    202MB / 295MB     213
+5c99909656bc   ray-worker-a   63.19%    282.6MiB / 1GiB     27.59%    1.25MB / 4.04MB   85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   50.80%    261MiB / 1GiB       25.48%    1.19MB / 3.86MB   81MB / 1.53MB     93
+07:13:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       90.13%    327.4MiB / 1GiB     31.97%    7.99MB / 2.42MB   202MB / 295MB     213
+5c99909656bc   ray-worker-a   71.51%    282.8MiB / 1GiB     27.62%    1.25MB / 4.08MB   85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   39.34%    261.6MiB / 1GiB     25.54%    1.2MB / 3.88MB    81MB / 1.55MB     93
+07:13:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       112.42%   327.7MiB / 1GiB     32.00%    8.05MB / 2.43MB   202MB / 295MB     213
+5c99909656bc   ray-worker-a   75.81%    283.1MiB / 1GiB     27.65%    1.26MB / 4.11MB   85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   55.59%    261.6MiB / 1GiB     25.55%    1.2MB / 3.9MB     81MB / 1.55MB     93
+07:13:22 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       28.46%    327.5MiB / 1GiB     31.98%    8.08MB / 2.44MB   202MB / 295MB     213
+5c99909656bc   ray-worker-a   13.18%    283.1MiB / 1GiB     27.65%    1.27MB / 4.13MB   85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   7.24%     261.2MiB / 1GiB     25.51%    1.21MB / 3.93MB   81MB / 1.57MB     93
+07:13:26 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.45%    327.7MiB / 1GiB     32.01%    8.15MB / 2.46MB   202MB / 295MB     213
+5c99909656bc   ray-worker-a   25.68%    283.3MiB / 1GiB     27.67%    1.28MB / 4.17MB   85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   3.87%     261.2MiB / 1GiB     25.50%    1.22MB / 3.95MB   81MB / 1.57MB     93
+07:13:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       20.03%    328.3MiB / 1GiB     32.06%    8.21MB / 2.48MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   12.30%    283.2MiB / 1GiB     27.66%    1.29MB / 4.2MB    85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   8.35%     261.1MiB / 1GiB     25.50%    1.22MB / 3.97MB   81MB / 1.59MB     93
+07:13:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       19.92%    328.2MiB / 1GiB     32.05%    8.24MB / 2.48MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   10.00%    283.2MiB / 1GiB     27.66%    1.29MB / 4.22MB   85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   9.93%     261.3MiB / 1GiB     25.51%    1.23MB / 3.99MB   81MB / 1.59MB     93
+07:13:39 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       19.91%    328.4MiB / 1GiB     32.07%    8.31MB / 2.5MB    203MB / 295MB     213
+5c99909656bc   ray-worker-a   8.61%     282.8MiB / 1GiB     27.62%    1.3MB / 4.24MB    85.7MB / 66.5MB   122
+5c09dccfde3c   ray-worker-b   4.08%     261.5MiB / 1GiB     25.53%    1.24MB / 4.02MB   81MB / 1.59MB     93
+07:13:43 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.98%     328.7MiB / 1GiB     32.10%    8.35MB / 2.51MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   4.05%     282.9MiB / 1GiB     27.63%    1.3MB / 4.28MB    85.7MB / 66.6MB   122
+5c09dccfde3c   ray-worker-b   3.01%     261MiB / 1GiB       25.49%    1.24MB / 4.04MB   81MB / 1.61MB     93
+07:13:47 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       55.64%    328.7MiB / 1GiB     32.10%    8.43MB / 2.53MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   12.32%    283.4MiB / 1GiB     27.68%    1.31MB / 4.31MB   85.7MB / 66.6MB   122
+5c09dccfde3c   ray-worker-b   4.04%     260.9MiB / 1GiB     25.48%    1.25MB / 4.08MB   81MB / 1.63MB     93
+07:13:54 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       13.14%    328.8MiB / 1GiB     32.10%    8.47MB / 2.54MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   8.66%     283.2MiB / 1GiB     27.66%    1.32MB / 4.35MB   85.7MB / 66.6MB   122
+5c09dccfde3c   ray-worker-b   4.16%     261.3MiB / 1GiB     25.51%    1.26MB / 4.09MB   81MB / 1.63MB     93
+07:13:59 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.29%     329MiB / 1GiB       32.13%    8.53MB / 2.56MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   7.95%     283.4MiB / 1GiB     27.68%    1.33MB / 4.39MB   85.7MB / 66.6MB   122
+5c09dccfde3c   ray-worker-b   9.23%     261MiB / 1GiB       25.49%    1.26MB / 4.12MB   81MB / 1.63MB     93
+07:14:03 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.45%    329.5MiB / 1GiB     32.18%    8.6MB / 2.58MB    203MB / 295MB     213
+5c99909656bc   ray-worker-a   5.34%     283.9MiB / 1GiB     27.72%    1.34MB / 4.41MB   85.7MB / 66.6MB   122
+5c09dccfde3c   ray-worker-b   6.93%     261.5MiB / 1GiB     25.54%    1.27MB / 4.15MB   81MB / 1.68MB     93
+07:14:07 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       10.70%    329.1MiB / 1GiB     32.14%    8.63MB / 2.59MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   6.98%     283.9MiB / 1GiB     27.73%    1.34MB / 4.44MB   85.7MB / 66.6MB   122
+5c09dccfde3c   ray-worker-b   3.83%     261.3MiB / 1GiB     25.52%    1.28MB / 4.16MB   81MB / 1.68MB     93
+07:14:11 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       13.44%    329.5MiB / 1GiB     32.18%    8.69MB / 2.6MB    203MB / 295MB     213
+5c99909656bc   ray-worker-a   10.34%    283.6MiB / 1GiB     27.70%    1.35MB / 4.48MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   6.89%     261MiB / 1GiB       25.49%    1.28MB / 4.19MB   81MB / 1.7MB      93
+07:14:15 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.48%    329.5MiB / 1GiB     32.18%    8.74MB / 2.62MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   9.19%     283.3MiB / 1GiB     27.67%    1.36MB / 4.5MB    85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   3.41%     261.1MiB / 1GiB     25.50%    1.29MB / 4.2MB    81MB / 1.7MB      93
+07:14:19 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       13.13%    329.1MiB / 1GiB     32.14%    8.79MB / 2.63MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   8.54%     283.3MiB / 1GiB     27.67%    1.37MB / 4.54MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   6.17%     261.2MiB / 1GiB     25.51%    1.3MB / 4.23MB    81MB / 1.7MB      93
+07:14:23 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       21.35%    329.4MiB / 1GiB     32.17%    8.85MB / 2.64MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   16.24%    283.6MiB / 1GiB     27.69%    1.38MB / 4.57MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   7.86%     261.3MiB / 1GiB     25.52%    1.3MB / 4.24MB    81MB / 1.72MB     93
+07:14:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       8.49%     329.4MiB / 1GiB     32.17%    8.89MB / 2.65MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   7.21%     283.6MiB / 1GiB     27.70%    1.38MB / 4.59MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   5.15%     261.5MiB / 1GiB     25.54%    1.31MB / 4.27MB   81MB / 1.72MB     93
+07:14:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.41%    329.8MiB / 1GiB     32.21%    8.95MB / 2.67MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   9.79%     284MiB / 1GiB       27.73%    1.39MB / 4.63MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   7.55%     261.2MiB / 1GiB     25.50%    1.32MB / 4.3MB    81MB / 1.74MB     93
+07:14:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       27.78%    330.1MiB / 1GiB     32.24%    9.01MB / 2.69MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   13.16%    284MiB / 1GiB       27.73%    1.4MB / 4.66MB    85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   4.47%     261.1MiB / 1GiB     25.50%    1.32MB / 4.31MB   81MB / 1.74MB     93
+07:14:40 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       19.44%    329.5MiB / 1GiB     32.18%    9.05MB / 2.69MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   10.51%    284MiB / 1GiB       27.73%    1.4MB / 4.68MB    85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   6.56%     261MiB / 1GiB       25.49%    1.33MB / 4.34MB   81MB / 1.76MB     93
+07:14:44 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.86%    329.6MiB / 1GiB     32.19%    9.11MB / 2.71MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   8.05%     283.9MiB / 1GiB     27.73%    1.41MB / 4.72MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   5.46%     261MiB / 1GiB       25.48%    1.33MB / 4.36MB   81MB / 1.76MB     93
+07:14:48 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       10.15%    329.6MiB / 1GiB     32.19%    9.14MB / 2.72MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   6.52%     284.3MiB / 1GiB     27.76%    1.42MB / 4.74MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   5.04%     261.5MiB / 1GiB     25.53%    1.34MB / 4.38MB   81MB / 1.76MB     93
+07:14:52 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.28%     329.6MiB / 1GiB     32.19%    9.21MB / 2.74MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   6.92%     283.8MiB / 1GiB     27.72%    1.42MB / 4.77MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   7.26%     261.4MiB / 1GiB     25.53%    1.35MB / 4.41MB   81MB / 1.78MB     93
+07:14:56 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       15.18%    329.7MiB / 1GiB     32.19%    9.27MB / 2.75MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   8.50%     284MiB / 1GiB       27.73%    1.43MB / 4.81MB   85.7MB / 66.7MB   122
+5c09dccfde3c   ray-worker-b   4.43%     261.6MiB / 1GiB     25.54%    1.35MB / 4.43MB   81MB / 1.78MB     93
+07:15:00 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.19%    329.6MiB / 1GiB     32.18%    9.31MB / 2.76MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   7.78%     283.3MiB / 1GiB     27.67%    1.44MB / 4.83MB   85.7MB / 66.8MB   122
+5c09dccfde3c   ray-worker-b   5.73%     260.6MiB / 1GiB     25.45%    1.36MB / 4.45MB   81MB / 1.78MB     93
+07:15:04 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       20.21%    330.2MiB / 1GiB     32.25%    9.37MB / 2.78MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   8.31%     284.2MiB / 1GiB     27.75%    1.45MB / 4.86MB   85.7MB / 66.8MB   122
+5c09dccfde3c   ray-worker-b   5.73%     261.4MiB / 1GiB     25.53%    1.37MB / 4.48MB   81MB / 1.83MB     93
+07:15:08 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       13.08%    330MiB / 1GiB       32.22%    9.43MB / 2.79MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   13.93%    283.6MiB / 1GiB     27.69%    1.45MB / 4.9MB    85.7MB / 66.8MB   122
+5c09dccfde3c   ray-worker-b   3.97%     261.2MiB / 1GiB     25.51%    1.37MB / 4.49MB   81MB / 1.83MB     93
+07:15:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       8.79%     330.1MiB / 1GiB     32.24%    9.46MB / 2.81MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   10.48%    284.2MiB / 1GiB     27.75%    1.46MB / 4.92MB   85.7MB / 66.8MB   122
+5c09dccfde3c   ray-worker-b   4.04%     261.5MiB / 1GiB     25.54%    1.38MB / 4.52MB   81MB / 1.86MB     93
+07:15:17 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.27%    330MiB / 1GiB       32.22%    9.53MB / 2.82MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   9.27%     284.1MiB / 1GiB     27.74%    1.47MB / 4.95MB   85.7MB / 66.8MB   122
+5c09dccfde3c   ray-worker-b   6.12%     261.5MiB / 1GiB     25.54%    1.39MB / 4.55MB   81MB / 1.86MB     93
+07:15:21 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.12%    330.1MiB / 1GiB     32.24%    9.56MB / 2.83MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   10.45%    284.1MiB / 1GiB     27.75%    1.47MB / 4.97MB   85.7MB / 66.8MB   122
+5c09dccfde3c   ray-worker-b   13.51%    260.7MiB / 1GiB     25.46%    1.4MB / 4.58MB    81MB / 1.88MB     93
+07:15:25 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       19.61%    330.1MiB / 1GiB     32.23%    9.63MB / 2.85MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   13.08%    283.9MiB / 1GiB     27.72%    1.48MB / 5.01MB   85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   12.19%    261.4MiB / 1GiB     25.53%    1.4MB / 4.59MB    81MB / 1.88MB     93
+07:15:29 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.98%    329.9MiB / 1GiB     32.22%    9.69MB / 2.86MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   7.90%     284.3MiB / 1GiB     27.77%    1.49MB / 5.04MB   85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   5.44%     261.4MiB / 1GiB     25.53%    1.4MB / 4.61MB    81MB / 1.88MB     93
+07:15:33 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       10.58%    330.2MiB / 1GiB     32.24%    9.72MB / 2.87MB   203MB / 295MB     213
+5c99909656bc   ray-worker-a   10.38%    284.4MiB / 1GiB     27.78%    1.5MB / 5.06MB    85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   3.62%     261.5MiB / 1GiB     25.54%    1.41MB / 4.63MB   81MB / 1.9MB      93
+07:15:37 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.97%     330.1MiB / 1GiB     32.23%    9.78MB / 2.89MB   203MB / 296MB     213
+5c99909656bc   ray-worker-a   7.68%     284.1MiB / 1GiB     27.74%    1.5MB / 5.1MB     85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   4.58%     261.6MiB / 1GiB     25.54%    1.42MB / 4.66MB   81MB / 1.9MB      93
+07:15:41 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       10.58%    330.1MiB / 1GiB     32.24%    9.83MB / 2.9MB    203MB / 296MB     213
+5c99909656bc   ray-worker-a   5.88%     284.4MiB / 1GiB     27.77%    1.51MB / 5.12MB   85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   7.43%     261.5MiB / 1GiB     25.54%    1.43MB / 4.69MB   81MB / 1.92MB     93
+07:15:45 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       23.91%    330.4MiB / 1GiB     32.27%    9.88MB / 2.91MB   203MB / 296MB     213
+5c99909656bc   ray-worker-a   12.68%    283.9MiB / 1GiB     27.73%    1.52MB / 5.15MB   85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   6.26%     261.5MiB / 1GiB     25.54%    1.43MB / 4.7MB    81MB / 1.92MB     93
+07:15:49 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.64%    330.4MiB / 1GiB     32.26%    9.94MB / 2.93MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   11.24%    284.2MiB / 1GiB     27.76%    1.53MB / 5.19MB   85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   3.63%     261.7MiB / 1GiB     25.55%    1.44MB / 4.72MB   81MB / 1.92MB     93
+07:15:54 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.34%    330.3MiB / 1GiB     32.26%    9.98MB / 2.94MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   10.15%    284.4MiB / 1GiB     27.78%    1.53MB / 5.21MB   85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   4.78%     261.5MiB / 1GiB     25.53%    1.44MB / 4.74MB   81MB / 1.94MB     93
+07:15:58 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       18.87%    330.4MiB / 1GiB     32.26%    10MB / 2.96MB     204MB / 296MB     213
+5c99909656bc   ray-worker-a   13.89%    284.1MiB / 1GiB     27.75%    1.54MB / 5.24MB   85.7MB / 66.9MB   122
+5c09dccfde3c   ray-worker-b   7.59%     261.2MiB / 1GiB     25.51%    1.45MB / 4.77MB   81MB / 1.94MB     93
+07:16:02 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       18.88%    330.3MiB / 1GiB     32.26%    10.1MB / 2.96MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   17.02%    284.8MiB / 1GiB     27.81%    1.55MB / 5.28MB   85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   9.60%     261.8MiB / 1GiB     25.57%    1.46MB / 4.8MB    81MB / 1.98MB   93
+07:16:06 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       11.85%    329.9MiB / 1GiB     32.21%    10.1MB / 2.98MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   6.39%     284.8MiB / 1GiB     27.81%    1.55MB / 5.3MB    85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   5.90%     261.9MiB / 1GiB     25.57%    1.46MB / 4.81MB   81MB / 1.98MB   93
+07:16:10 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       15.66%    329.9MiB / 1GiB     32.21%    10.2MB / 2.99MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   14.23%    284.6MiB / 1GiB     27.79%    1.56MB / 5.34MB   85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   5.62%     261.7MiB / 1GiB     25.55%    1.47MB / 4.84MB   81MB / 2MB      93
+07:16:14 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       25.22%    329.8MiB / 1GiB     32.21%    10.2MB / 3.01MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   16.92%    284.7MiB / 1GiB     27.80%    1.57MB / 5.35MB   85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   9.04%     261.9MiB / 1GiB     25.58%    1.47MB / 4.85MB   81MB / 2MB      93
+07:16:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       9.33%     330MiB / 1GiB       32.23%    10.3MB / 3.02MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   6.39%     285MiB / 1GiB       27.83%    1.57MB / 5.39MB   85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   4.86%     261.1MiB / 1GiB     25.50%    1.48MB / 4.88MB   81MB / 2MB      93
+07:16:22 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       16.17%    330MiB / 1GiB       32.23%    10.4MB / 3.04MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   9.38%     284.8MiB / 1GiB     27.81%    1.58MB / 5.43MB   85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   2.76%     262MiB / 1GiB       25.58%    1.49MB / 4.9MB    81MB / 2.02MB   93
+07:16:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       9.02%     329.9MiB / 1GiB     32.22%    10.4MB / 3.05MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   5.05%     284.6MiB / 1GiB     27.79%    1.59MB / 5.45MB   85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   4.11%     261.7MiB / 1GiB     25.56%    1.49MB / 4.92MB   81MB / 2.02MB   93
+07:16:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       14.86%    330.3MiB / 1GiB     32.25%    10.5MB / 3.06MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   8.55%     284.9MiB / 1GiB     27.82%    1.6MB / 5.48MB    85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   5.05%     261.5MiB / 1GiB     25.54%    1.5MB / 4.95MB    81MB / 2.04MB   93
+07:16:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       9.18%     330MiB / 1GiB       32.23%    10.5MB / 3.07MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   7.38%     284.7MiB / 1GiB     27.81%    1.6MB / 5.5MB     85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   7.30%     261.6MiB / 1GiB     25.55%    1.51MB / 4.98MB   81MB / 2.04MB   93
+07:16:39 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       10.75%    330.5MiB / 1GiB     32.27%    10.6MB / 3.09MB   204MB / 296MB   213
+5c99909656bc   ray-worker-a   8.76%     285.1MiB / 1GiB     27.84%    1.61MB / 5.54MB   85.7MB / 67MB   122
+5c09dccfde3c   ray-worker-b   3.96%     262MiB / 1GiB       25.58%    1.51MB / 4.99MB   81MB / 2.04MB   93
+07:16:43 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.59%    330.3MiB / 1GiB     32.26%    10.6MB / 3.1MB    204MB / 296MB     213
+5c99909656bc   ray-worker-a   11.62%    284.4MiB / 1GiB     27.77%    1.62MB / 5.57MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   6.52%     261.6MiB / 1GiB     25.55%    1.52MB / 5.02MB   81MB / 2.06MB     93
+07:16:47 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.49%     330.3MiB / 1GiB     32.25%    10.7MB / 3.12MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   6.39%     285.2MiB / 1GiB     27.85%    1.62MB / 5.59MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   4.14%     261.7MiB / 1GiB     25.55%    1.53MB / 5.03MB   81MB / 2.06MB     93
+07:16:51 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       15.18%    330.2MiB / 1GiB     32.24%    10.7MB / 3.13MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   7.02%     285MiB / 1GiB       27.83%    1.63MB / 5.63MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   8.86%     261.5MiB / 1GiB     25.53%    1.53MB / 5.06MB   81MB / 2.08MB     93
+07:16:55 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       15.42%    330.2MiB / 1GiB     32.24%    10.8MB / 3.15MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   10.55%    284.8MiB / 1GiB     27.82%    1.64MB / 5.66MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   3.52%     261.9MiB / 1GiB     25.58%    1.54MB / 5.08MB   81MB / 2.08MB     93
+07:16:59 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.07%    330.2MiB / 1GiB     32.24%    10.8MB / 3.16MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   6.81%     284.9MiB / 1GiB     27.82%    1.65MB / 5.68MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   4.66%     261.4MiB / 1GiB     25.53%    1.55MB / 5.1MB    81MB / 2.08MB     93
+07:17:04 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.79%    329.9MiB / 1GiB     32.21%    10.9MB / 3.17MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   18.69%    285MiB / 1GiB       27.83%    1.65MB / 5.72MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   5.52%     261.7MiB / 1GiB     25.56%    1.55MB / 5.13MB   81MB / 2.13MB     93
+07:17:08 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.17%    329.9MiB / 1GiB     32.21%    10.9MB / 3.19MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   8.14%     284.7MiB / 1GiB     27.80%    1.66MB / 5.74MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   4.02%     261.8MiB / 1GiB     25.56%    1.56MB / 5.15MB   81MB / 2.13MB     93
+07:17:12 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       17.41%    330.2MiB / 1GiB     32.25%    11MB / 3.2MB      204MB / 296MB     213
+5c99909656bc   ray-worker-a   7.44%     285.2MiB / 1GiB     27.86%    1.67MB / 5.77MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   4.52%     262MiB / 1GiB       25.59%    1.57MB / 5.17MB   81MB / 2.15MB     93
+07:17:16 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       19.75%    330.4MiB / 1GiB     32.27%    11MB / 3.21MB     204MB / 296MB     213
+5c99909656bc   ray-worker-a   14.91%    284.6MiB / 1GiB     27.79%    1.68MB / 5.81MB   85.7MB / 67.1MB   122
+5c09dccfde3c   ray-worker-b   6.11%     261.8MiB / 1GiB     25.57%    1.57MB / 5.2MB    81MB / 2.15MB     93
+07:17:20 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       22.61%    330.1MiB / 1GiB     32.24%    11.1MB / 3.23MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   14.02%    285.1MiB / 1GiB     27.84%    1.68MB / 5.83MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   3.57%     261.7MiB / 1GiB     25.56%    1.58MB / 5.21MB   81MB / 2.15MB     93
+07:17:24 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       31.03%    330.7MiB / 1GiB     32.29%    11.1MB / 3.24MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   17.74%    285.1MiB / 1GiB     27.84%    1.69MB / 5.86MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   12.99%    261.8MiB / 1GiB     25.57%    1.59MB / 5.24MB   81MB / 2.17MB     93
+07:17:28 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       10.76%    330.8MiB / 1GiB     32.31%    11.2MB / 3.25MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   7.66%     285MiB / 1GiB       27.84%    1.69MB / 5.88MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   4.81%     262MiB / 1GiB       25.59%    1.59MB / 5.26MB   81MB / 2.17MB     93
+07:17:32 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.29%    330.8MiB / 1GiB     32.31%    11.2MB / 3.26MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   9.38%     284.7MiB / 1GiB     27.80%    1.7MB / 5.92MB    85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   3.64%     261.9MiB / 1GiB     25.58%    1.6MB / 5.28MB    81MB / 2.2MB      93
+07:17:36 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.76%    330.9MiB / 1GiB     32.32%    11.3MB / 3.28MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   8.21%     285MiB / 1GiB       27.83%    1.71MB / 5.95MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   3.49%     261.8MiB / 1GiB     25.57%    1.61MB / 5.31MB   81MB / 2.2MB      93
+07:17:40 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       15.05%    330.9MiB / 1GiB     32.32%    11.3MB / 3.29MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   6.37%     285.1MiB / 1GiB     27.84%    1.72MB / 5.97MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   4.54%     261.8MiB / 1GiB     25.56%    1.61MB / 5.33MB   81MB / 2.2MB      93
+07:17:45 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.64%    331.3MiB / 1GiB     32.36%    11.4MB / 3.31MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   7.41%     285MiB / 1GiB       27.83%    1.72MB / 6.01MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   4.29%     262MiB / 1GiB       25.59%    1.62MB / 5.35MB   81MB / 2.22MB     93
+07:17:49 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       8.63%     331.3MiB / 1GiB     32.35%    11.4MB / 3.32MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   6.78%     284.8MiB / 1GiB     27.82%    1.73MB / 6.04MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   3.11%     262.3MiB / 1GiB     25.61%    1.62MB / 5.38MB   81MB / 2.22MB     93
+07:17:53 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       13.80%    331MiB / 1GiB       32.32%    11.5MB / 3.33MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   6.70%     285MiB / 1GiB       27.83%    1.74MB / 6.06MB   85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   5.65%     261.9MiB / 1GiB     25.58%    1.63MB / 5.41MB   81MB / 2.24MB     93
+07:17:57 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.28%    331.3MiB / 1GiB     32.36%    11.5MB / 3.35MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   8.17%     285.1MiB / 1GiB     27.85%    1.75MB / 6.1MB    85.7MB / 67.2MB   122
+5c09dccfde3c   ray-worker-b   3.94%     262.1MiB / 1GiB     25.59%    1.64MB / 5.42MB   81MB / 2.24MB     93
+07:18:01 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       33.20%    331.1MiB / 1GiB     32.34%    11.6MB / 3.36MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   11.43%    284.6MiB / 1GiB     27.80%    1.75MB / 6.12MB   85.7MB / 67.3MB   122
+5c09dccfde3c   ray-worker-b   4.36%     261.6MiB / 1GiB     25.54%    1.64MB / 5.44MB   81MB / 2.26MB     93
+07:18:05 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       22.72%    331.5MiB / 1GiB     32.38%    11.6MB / 3.37MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   15.02%    284.9MiB / 1GiB     27.82%    1.76MB / 6.15MB   85.7MB / 67.3MB   122
+5c09dccfde3c   ray-worker-b   9.74%     262.1MiB / 1GiB     25.59%    1.65MB / 5.47MB   81MB / 2.28MB     93
+07:18:09 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       16.72%    331.1MiB / 1GiB     32.34%    11.7MB / 3.39MB   204MB / 296MB     213
+5c99909656bc   ray-worker-a   8.69%     285.2MiB / 1GiB     27.85%    1.77MB / 6.19MB   85.7MB / 67.3MB   122
+5c09dccfde3c   ray-worker-b   6.57%     262MiB / 1GiB       25.59%    1.66MB / 5.49MB   81MB / 2.28MB     93
+07:18:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       7.24%     331.3MiB / 1GiB     32.35%    11.8MB / 3.4MB    204MB / 297MB     213
+5c99909656bc   ray-worker-a   5.21%     285.1MiB / 1GiB     27.84%    1.77MB / 6.21MB   85.7MB / 67.3MB   122
+5c09dccfde3c   ray-worker-b   3.03%     261.8MiB / 1GiB     25.56%    1.66MB / 5.51MB   81MB / 2.3MB      93
+07:18:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.91%    331.2MiB / 1GiB     32.34%    11.8MB / 3.42MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.13%     285.6MiB / 1GiB     27.89%    1.78MB / 6.23MB   85.7MB / 67.3MB   122
+5c09dccfde3c   ray-worker-b   3.49%     262MiB / 1GiB       25.58%    1.67MB / 5.53MB   81MB / 2.3MB      93
+07:18:22 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       10.79%    331.4MiB / 1GiB     32.36%    11.9MB / 3.43MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   8.20%     285.5MiB / 1GiB     27.88%    1.79MB / 6.27MB   85.7MB / 67.3MB   122
+5c09dccfde3c   ray-worker-b   3.64%     261.5MiB / 1GiB     25.54%    1.68MB / 5.56MB   81MB / 2.32MB     93
+07:18:26 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.76%     331.3MiB / 1GiB     32.35%    11.9MB / 3.44MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   8.46%     285.4MiB / 1GiB     27.87%    1.79MB / 6.3MB    85.7MB / 67.3MB   122
+5c09dccfde3c   ray-worker-b   5.62%     261.8MiB / 1GiB     25.57%    1.68MB / 5.59MB   81MB / 2.32MB     93
+07:18:30 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+5648fa913d98   ray-head       17.07%    331.4MiB / 1GiB     32.36%    12MB / 3.46MB    204MB / 297MB     213
+5c99909656bc   ray-worker-a   10.56%    285.8MiB / 1GiB     27.91%    1.8MB / 6.34MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   4.40%     261.6MiB / 1GiB     25.55%    1.69MB / 5.6MB   81MB / 2.32MB     93
+07:18:34 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       8.41%     331.5MiB / 1GiB     32.37%    12MB / 3.47MB     204MB / 297MB     213
+5c99909656bc   ray-worker-a   5.85%     285.8MiB / 1GiB     27.91%    1.81MB / 6.36MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   5.08%     262MiB / 1GiB       25.58%    1.7MB / 5.63MB    81MB / 2.34MB     93
+07:18:38 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.61%    332MiB / 1GiB       32.42%    12.1MB / 3.48MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.14%     285.6MiB / 1GiB     27.89%    1.82MB / 6.39MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   3.45%     261.7MiB / 1GiB     25.56%    1.7MB / 5.65MB    81MB / 2.34MB     93
+07:18:42 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.43%     331MiB / 1GiB       32.32%    12.1MB / 3.5MB    204MB / 297MB     213
+5c99909656bc   ray-worker-a   7.07%     285.4MiB / 1GiB     27.87%    1.82MB / 6.41MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   2.99%     261.7MiB / 1GiB     25.56%    1.71MB / 5.67MB   81MB / 2.36MB     93
+07:18:46 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       20.82%    331.8MiB / 1GiB     32.40%    12.2MB / 3.51MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   7.17%     285.7MiB / 1GiB     27.90%    1.83MB / 6.45MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   6.49%     261.8MiB / 1GiB     25.57%    1.72MB / 5.7MB    81MB / 2.36MB     93
+07:18:50 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       13.82%    331.6MiB / 1GiB     32.38%    12.2MB / 3.52MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   10.16%    285.7MiB / 1GiB     27.90%    1.84MB / 6.48MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   7.04%     261.4MiB / 1GiB     25.53%    1.72MB / 5.71MB   81MB / 2.36MB     93
+07:18:54 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.65%    332MiB / 1GiB       32.42%    12.3MB / 3.53MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   4.80%     285.4MiB / 1GiB     27.87%    1.84MB / 6.5MB    85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   4.47%     261.1MiB / 1GiB     25.49%    1.73MB / 5.74MB   81MB / 2.38MB     93
+07:18:59 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.09%     331.6MiB / 1GiB     32.38%    12.3MB / 3.55MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.45%     285.6MiB / 1GiB     27.89%    1.85MB / 6.54MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   4.55%     261.1MiB / 1GiB     25.49%    1.73MB / 5.76MB   81MB / 2.38MB     93
+07:19:03 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       15.60%    332MiB / 1GiB       32.42%    12.4MB / 3.56MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   12.93%    285.5MiB / 1GiB     27.88%    1.86MB / 6.57MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   6.66%     262MiB / 1GiB       25.58%    1.74MB / 5.78MB   81MB / 2.43MB     93
+07:19:07 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.63%    332MiB / 1GiB       32.42%    12.4MB / 3.57MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   5.66%     285.9MiB / 1GiB     27.92%    1.87MB / 6.59MB   85.7MB / 67.4MB   122
+5c09dccfde3c   ray-worker-b   4.65%     261.9MiB / 1GiB     25.57%    1.75MB / 5.81MB   81MB / 2.43MB     93
+07:19:11 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.33%     332MiB / 1GiB       32.42%    12.5MB / 3.59MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.44%     285.4MiB / 1GiB     27.87%    1.87MB / 6.63MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   3.86%     261.9MiB / 1GiB     25.58%    1.75MB / 5.83MB   81MB / 2.45MB     93
+07:19:15 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       8.27%     331.9MiB / 1GiB     32.42%    12.5MB / 3.61MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   8.64%     286MiB / 1GiB       27.93%    1.88MB / 6.66MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   5.17%     261.6MiB / 1GiB     25.55%    1.76MB / 5.85MB   81MB / 2.45MB     93
+07:19:19 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.13%    331.9MiB / 1GiB     32.41%    12.6MB / 3.62MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   7.59%     285.6MiB / 1GiB     27.89%    1.89MB / 6.68MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   4.13%     261.3MiB / 1GiB     25.52%    1.76MB / 5.87MB   81MB / 2.45MB     93
+07:19:23 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       21.06%    331.5MiB / 1GiB     32.37%    12.6MB / 3.63MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   16.19%    285.5MiB / 1GiB     27.88%    1.89MB / 6.72MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   7.06%     261.7MiB / 1GiB     25.56%    1.77MB / 5.9MB    81MB / 2.47MB     93
+07:19:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.64%    331.4MiB / 1GiB     32.36%    12.7MB / 3.64MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.39%     285.1MiB / 1GiB     27.84%    1.9MB / 6.74MB    85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   2.81%     261.8MiB / 1GiB     25.57%    1.78MB / 5.92MB   81MB / 2.47MB     93
+07:19:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       20.45%    331.6MiB / 1GiB     32.38%    12.7MB / 3.66MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   10.04%    285.8MiB / 1GiB     27.91%    1.91MB / 6.77MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   7.80%     261.7MiB / 1GiB     25.56%    1.79MB / 5.95MB   81MB / 2.49MB     93
+07:19:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       17.56%    331.8MiB / 1GiB     32.40%    12.8MB / 3.67MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   14.65%    286.1MiB / 1GiB     27.94%    1.92MB / 6.81MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   6.14%     261.8MiB / 1GiB     25.56%    1.79MB / 5.97MB   81MB / 2.49MB     93
+07:19:40 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       8.80%     332MiB / 1GiB       32.42%    12.8MB / 3.69MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   5.24%     285.8MiB / 1GiB     27.91%    1.92MB / 6.83MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   2.52%     261.8MiB / 1GiB     25.57%    1.8MB / 5.98MB    81MB / 2.49MB     93
+07:19:44 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       17.64%    331.6MiB / 1GiB     32.38%    12.9MB / 3.7MB    204MB / 297MB     213
+5c99909656bc   ray-worker-a   10.80%    285.5MiB / 1GiB     27.88%    1.93MB / 6.86MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   4.15%     261.6MiB / 1GiB     25.55%    1.8MB / 6.01MB    81MB / 2.51MB     93
+07:19:48 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.65%    331.9MiB / 1GiB     32.42%    12.9MB / 3.71MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   8.59%     286MiB / 1GiB       27.93%    1.94MB / 6.88MB   85.7MB / 67.5MB   122
+5c09dccfde3c   ray-worker-b   8.33%     261.9MiB / 1GiB     25.58%    1.81MB / 6.03MB   81MB / 2.51MB     93
+07:19:52 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       24.93%    331.9MiB / 1GiB     32.42%    13MB / 3.73MB     204MB / 297MB     213
+5c99909656bc   ray-worker-a   8.90%     285.7MiB / 1GiB     27.90%    1.94MB / 6.92MB   85.7MB / 67.6MB   122
+5c09dccfde3c   ray-worker-b   4.20%     261.9MiB / 1GiB     25.58%    1.82MB / 6.05MB   81MB / 2.54MB     93
+07:19:56 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       11.25%    332.1MiB / 1GiB     32.43%    13.1MB / 3.74MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   8.74%     286MiB / 1GiB       27.93%    1.95MB / 6.95MB   85.7MB / 67.6MB   122
+5c09dccfde3c   ray-worker-b   10.78%    261.8MiB / 1GiB     25.56%    1.82MB / 6.08MB   81MB / 2.54MB     93
+07:20:00 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.53%    332.1MiB / 1GiB     32.43%    13.1MB / 3.75MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.10%     286MiB / 1GiB       27.93%    1.96MB / 6.97MB   85.7MB / 67.6MB   122
+5c09dccfde3c   ray-worker-b   6.19%     261.6MiB / 1GiB     25.54%    1.83MB / 6.1MB    81MB / 2.58MB     93
+07:20:04 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       8.93%     331.9MiB / 1GiB     32.41%    13.2MB / 3.76MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.91%     285.7MiB / 1GiB     27.90%    1.96MB / 7.01MB   85.7MB / 67.6MB   122
+5c09dccfde3c   ray-worker-b   3.35%     262.2MiB / 1GiB     25.60%    1.84MB / 6.12MB   81MB / 2.58MB     93
+07:20:08 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.08%     332MiB / 1GiB       32.42%    13.2MB / 3.78MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   10.38%    286.2MiB / 1GiB     27.94%    1.97MB / 7.05MB   85.7MB / 67.6MB   122
+5c09dccfde3c   ray-worker-b   2.95%     261.9MiB / 1GiB     25.58%    1.84MB / 6.15MB   81MB / 2.58MB     93
+07:20:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       26.70%    331.4MiB / 1GiB     32.37%    13.3MB / 3.79MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   5.64%     285.8MiB / 1GiB     27.91%    1.98MB / 7.07MB   85.7MB / 67.6MB   122
+5c09dccfde3c   ray-worker-b   6.12%     261.9MiB / 1GiB     25.58%    1.85MB / 6.17MB   81MB / 2.6MB      93
+07:20:17 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       15.92%    331.2MiB / 1GiB     32.34%    13.3MB / 3.81MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   9.89%     285.4MiB / 1GiB     27.87%    1.99MB / 7.1MB    85.7MB / 72.9MB   122
+5c09dccfde3c   ray-worker-b   2.62%     261.6MiB / 1GiB     25.55%    1.86MB / 6.19MB   81MB / 2.6MB      93
+07:20:21 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.99%    331.8MiB / 1GiB     32.40%    13.4MB / 3.82MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   9.08%     277.4MiB / 1GiB     27.09%    1.99MB / 7.12MB   85.7MB / 76.1MB   122
+5c09dccfde3c   ray-worker-b   9.43%     262.1MiB / 1GiB     25.60%    1.86MB / 6.21MB   81MB / 2.62MB     93
+07:20:25 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       26.65%    253.8MiB / 1GiB     24.78%    13.4MB / 3.83MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   9.20%     277.2MiB / 1GiB     27.07%    2MB / 7.16MB      85.7MB / 80.9MB   122
+5c09dccfde3c   ray-worker-b   2.89%     261.7MiB / 1GiB     25.55%    1.87MB / 6.23MB   81MB / 2.62MB     93
+07:20:29 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       7.55%     254MiB / 1GiB       24.80%    13.5MB / 3.85MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   6.45%     277.2MiB / 1GiB     27.07%    2.01MB / 7.19MB   85.7MB / 80.9MB   122
+5c09dccfde3c   ray-worker-b   3.52%     262.2MiB / 1GiB     25.61%    1.87MB / 6.26MB   81MB / 2.62MB     93
+07:20:33 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       6.42%     253.8MiB / 1GiB     24.79%    13.5MB / 3.86MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   5.61%     277.7MiB / 1GiB     27.12%    2.01MB / 7.21MB   85.7MB / 80.9MB   122
+5c09dccfde3c   ray-worker-b   2.97%     261.7MiB / 1GiB     25.55%    1.88MB / 6.28MB   81MB / 2.64MB     93
+07:20:37 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       12.99%    254MiB / 1GiB       24.80%    13.6MB / 3.88MB   204MB / 297MB     213
+5c99909656bc   ray-worker-a   7.98%     277.5MiB / 1GiB     27.10%    2.02MB / 7.25MB   85.7MB / 80.9MB   122
+5c09dccfde3c   ray-worker-b   5.80%     262.2MiB / 1GiB     25.60%    1.89MB / 6.31MB   81MB / 2.64MB     93
+07:20:42 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       8.68%     253.9MiB / 1GiB     24.80%    13.6MB / 3.88MB   204MB / 297MB   213
+5c99909656bc   ray-worker-a   9.61%     276.9MiB / 1GiB     27.04%    2.03MB / 7.28MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   4.14%     261.8MiB / 1GiB     25.57%    1.89MB / 6.33MB   81MB / 2.66MB   93
+07:20:46 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+5648fa913d98   ray-head       15.93%    254MiB / 1GiB       24.80%    13.7MB / 3.9MB   204MB / 297MB   213
+5c99909656bc   ray-worker-a   6.09%     277.7MiB / 1GiB     27.11%    2.03MB / 7.3MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   5.36%     262MiB / 1GiB       25.59%    1.9MB / 6.35MB   81MB / 2.66MB   93
+07:20:50 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       15.85%    254.2MiB / 1GiB     24.83%    13.7MB / 3.91MB   204MB / 297MB   213
+5c99909656bc   ray-worker-a   11.36%    277.4MiB / 1GiB     27.09%    2.04MB / 7.34MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   4.26%     262MiB / 1GiB       25.59%    1.91MB / 6.37MB   81MB / 2.66MB   93
+07:20:54 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       7.91%     254.7MiB / 1GiB     24.87%    13.8MB / 3.93MB   204MB / 297MB   213
+5c99909656bc   ray-worker-a   7.01%     277.2MiB / 1GiB     27.07%    2.05MB / 7.36MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   8.76%     262.3MiB / 1GiB     25.61%    1.91MB / 6.4MB    81MB / 2.68MB   93
+07:20:58 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       13.90%    254.5MiB / 1GiB     24.86%    13.8MB / 3.94MB   204MB / 298MB   213
+5c99909656bc   ray-worker-a   7.18%     277.4MiB / 1GiB     27.09%    2.06MB / 7.39MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   5.50%     261.9MiB / 1GiB     25.58%    1.92MB / 6.41MB   81MB / 2.68MB   93
+07:21:02 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       15.75%    254.6MiB / 1GiB     24.86%    13.9MB / 3.95MB   204MB / 298MB   213
+5c99909656bc   ray-worker-a   12.02%    277.4MiB / 1GiB     27.09%    2.06MB / 7.43MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   7.23%     261.8MiB / 1GiB     25.56%    1.93MB / 6.44MB   81MB / 2.73MB   93
+07:21:06 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       18.97%    254.2MiB / 1GiB     24.82%    13.9MB / 3.97MB   204MB / 298MB   213
+5c99909656bc   ray-worker-a   14.02%    277.4MiB / 1GiB     27.09%    2.07MB / 7.45MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   10.24%    262.2MiB / 1GiB     25.61%    1.93MB / 6.46MB   81MB / 2.73MB   93
+07:21:10 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       18.96%    254.5MiB / 1GiB     24.86%    14MB / 3.98MB     204MB / 298MB   213
+5c99909656bc   ray-worker-a   12.02%    277.5MiB / 1GiB     27.10%    2.08MB / 7.48MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   5.43%     261.7MiB / 1GiB     25.56%    1.94MB / 6.48MB   81MB / 2.73MB   93
+07:21:14 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       9.39%     254.2MiB / 1GiB     24.82%    14MB / 3.99MB     204MB / 298MB   213
+5c99909656bc   ray-worker-a   8.24%     277.1MiB / 1GiB     27.06%    2.08MB / 7.5MB    85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   7.15%     262MiB / 1GiB       25.59%    1.94MB / 6.51MB   81MB / 2.75MB   93
+07:21:19 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+5648fa913d98   ray-head       10.64%    254.2MiB / 1GiB     24.83%    14.1MB / 4.01MB   204MB / 298MB   213
+5c99909656bc   ray-worker-a   8.33%     277.4MiB / 1GiB     27.09%    2.09MB / 7.54MB   85.7MB / 81MB   122
+5c09dccfde3c   ray-worker-b   4.06%     262.2MiB / 1GiB     25.61%    1.95MB / 6.52MB   81MB / 2.75MB   93
+07:21:23 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       19.67%    254.2MiB / 1GiB     24.83%    14.1MB / 4.02MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   13.59%    277.3MiB / 1GiB     27.08%    2.1MB / 7.57MB    85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   4.97%     261.6MiB / 1GiB     25.55%    1.96MB / 6.55MB   81MB / 2.77MB     93
+07:21:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       10.76%    254.4MiB / 1GiB     24.84%    14.2MB / 4.03MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   6.31%     277.8MiB / 1GiB     27.13%    2.1MB / 7.59MB    85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   5.53%     262.4MiB / 1GiB     25.63%    1.96MB / 6.58MB   81MB / 2.77MB     93
+07:21:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       17.52%    254.9MiB / 1GiB     24.89%    14.3MB / 4.05MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   8.61%     277.6MiB / 1GiB     27.11%    2.11MB / 7.63MB   85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   4.70%     262.3MiB / 1GiB     25.62%    1.97MB / 6.59MB   81MB / 2.79MB     93
+07:21:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       71.20%    254.7MiB / 1GiB     24.88%    14.3MB / 4.06MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   47.88%    277.4MiB / 1GiB     27.09%    2.12MB / 7.66MB   85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   31.42%    262.6MiB / 1GiB     25.64%    1.98MB / 6.62MB   81MB / 2.79MB     93
+07:21:39 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       116.41%   255.1MiB / 1GiB     24.91%    14.4MB / 4.08MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   58.77%    277.7MiB / 1GiB     27.12%    2.13MB / 7.68MB   85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   52.20%    262.3MiB / 1GiB     25.62%    1.98MB / 6.64MB   81MB / 2.79MB     93
+07:21:44 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       111.94%   254.8MiB / 1GiB     24.89%    14.4MB / 4.09MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   65.38%    277.5MiB / 1GiB     27.10%    2.13MB / 7.72MB   85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   39.66%    262.3MiB / 1GiB     25.62%    1.99MB / 6.66MB   81MB / 2.81MB     93
+07:21:48 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       67.21%    254.8MiB / 1GiB     24.88%    14.5MB / 4.1MB    204MB / 298MB     213
+5c99909656bc   ray-worker-a   74.27%    277.6MiB / 1GiB     27.11%    2.14MB / 7.75MB   85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   26.30%    262.5MiB / 1GiB     25.64%    2MB / 6.69MB      81MB / 2.81MB     93
+07:21:53 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       28.21%    254.2MiB / 1GiB     24.82%    14.5MB / 4.12MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   9.64%     277.6MiB / 1GiB     27.11%    2.15MB / 7.77MB   85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   8.66%     262.6MiB / 1GiB     25.64%    2MB / 6.72MB      81MB / 2.83MB     93
+07:21:57 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       14.93%    255.2MiB / 1GiB     24.93%    14.6MB / 4.13MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   11.69%    277.7MiB / 1GiB     27.12%    2.16MB / 7.81MB   85.7MB / 81.1MB   122
+5c09dccfde3c   ray-worker-b   4.82%     262.3MiB / 1GiB     25.62%    2.01MB / 6.73MB   81MB / 2.83MB     93
+07:22:01 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+5648fa913d98   ray-head       9.65%     255.7MiB / 1GiB     24.97%    14.6MB / 4.14MB   204MB / 298MB     213
+5c99909656bc   ray-worker-a   4.70%     262.1MiB / 1GiB     25.59%    2.16MB / 7.83MB   85.7MB / 94.5MB   122
+5c09dccfde3c   ray-worker-b   4.01%     262.3MiB / 1GiB     25.62%    2.02MB / 6.76MB   81MB / 2.88MB     93
+07:22:05 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       9.20%     256.2MiB / 1GiB     25.02%    14.7MB / 4.16MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   6.10%     238.1MiB / 1GiB     23.25%    2.17MB / 7.87MB   85.7MB / 118MB   122
+5c09dccfde3c   ray-worker-b   9.55%     262.5MiB / 1GiB     25.64%    2.02MB / 6.78MB   81MB / 2.88MB    93
+07:22:09 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       21.43%    256.1MiB / 1GiB     25.01%    14.7MB / 4.17MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   17.46%    235.3MiB / 1GiB     22.98%    2.18MB / 7.9MB    85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   3.08%     262.1MiB / 1GiB     25.59%    2.03MB / 6.8MB    81MB / 2.88MB    93
+07:22:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       7.87%     255.9MiB / 1GiB     24.99%    14.8MB / 4.18MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   4.10%     235.6MiB / 1GiB     23.01%    2.18MB / 7.92MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   11.35%    262.2MiB / 1GiB     25.61%    2.04MB / 6.83MB   81MB / 2.9MB     93
+07:22:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       12.46%    255.8MiB / 1GiB     24.98%    14.8MB / 4.2MB    204MB / 298MB    213
+5c99909656bc   ray-worker-a   6.26%     235.8MiB / 1GiB     23.03%    2.19MB / 7.96MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   5.08%     262.5MiB / 1GiB     25.64%    2.04MB / 6.84MB   81MB / 2.9MB     93
+07:22:22 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       22.89%    255.6MiB / 1GiB     24.97%    14.9MB / 4.21MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   21.40%    236.2MiB / 1GiB     23.07%    2.2MB / 7.99MB    85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   9.30%     262.3MiB / 1GiB     25.61%    2.05MB / 6.87MB   81MB / 2.92MB    93
+07:22:26 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       32.18%    256.1MiB / 1GiB     25.01%    14.9MB / 4.22MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   6.90%     236MiB / 1GiB       23.05%    2.2MB / 8.01MB    85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   5.53%     262.2MiB / 1GiB     25.61%    2.06MB / 6.9MB    81MB / 2.92MB    93
+07:22:30 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       9.18%     256.5MiB / 1GiB     25.05%    15MB / 4.23MB     204MB / 298MB    213
+5c99909656bc   ray-worker-a   12.64%    235.8MiB / 1GiB     23.03%    2.21MB / 8.05MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   7.75%     261.8MiB / 1GiB     25.57%    2.06MB / 6.92MB   81MB / 2.94MB    93
+07:22:34 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       15.47%    256MiB / 1GiB       25.00%    15MB / 4.25MB     204MB / 298MB    213
+5c99909656bc   ray-worker-a   8.34%     236.1MiB / 1GiB     23.06%    2.22MB / 8.06MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   6.48%     262.4MiB / 1GiB     25.62%    2.07MB / 6.94MB   81MB / 2.94MB    93
+07:22:38 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       14.66%    255.9MiB / 1GiB     24.99%    15.1MB / 4.26MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   9.33%     236.1MiB / 1GiB     23.06%    2.23MB / 8.1MB    85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   4.27%     262.6MiB / 1GiB     25.65%    2.08MB / 6.96MB   81MB / 2.94MB    93
+07:22:42 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       15.32%    255.7MiB / 1GiB     24.97%    15.2MB / 4.28MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   9.81%     236.1MiB / 1GiB     23.05%    2.23MB / 8.12MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   6.41%     262.3MiB / 1GiB     25.61%    2.08MB / 6.99MB   81MB / 2.96MB    93
+07:22:46 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       15.06%    255.2MiB / 1GiB     24.92%    15.2MB / 4.29MB   204MB / 298MB    213
+5c99909656bc   ray-worker-a   10.01%    236.2MiB / 1GiB     23.06%    2.24MB / 8.15MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   9.39%     262.3MiB / 1GiB     25.62%    2.09MB / 7.01MB   81MB / 2.96MB    93
+07:22:51 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       64.21%    255.8MiB / 1GiB     24.98%    15.3MB / 4.31MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   44.51%    236.4MiB / 1GiB     23.09%    2.25MB / 8.19MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   27.23%    262.2MiB / 1GiB     25.61%    2.09MB / 7.03MB   81MB / 2.98MB    93
+07:22:55 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       119.52%   255.5MiB / 1GiB     24.95%    15.3MB / 4.32MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   68.55%    236.1MiB / 1GiB     23.06%    2.26MB / 8.23MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   43.51%    262.5MiB / 1GiB     25.63%    2.1MB / 7.05MB    81MB / 2.98MB    93
+07:23:00 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       110.45%   255MiB / 1GiB       24.90%    15.3MB / 4.33MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   78.12%    236MiB / 1GiB       23.05%    2.26MB / 8.25MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   28.37%    262.1MiB / 1GiB     25.59%    2.11MB / 7.08MB   81MB / 2.98MB    93
+07:23:04 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       33.01%    255.2MiB / 1GiB     24.93%    15.4MB / 4.35MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   29.10%    236.1MiB / 1GiB     23.05%    2.27MB / 8.28MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   34.49%    262.2MiB / 1GiB     25.60%    2.11MB / 7.1MB    81MB / 3.03MB    93
+07:23:09 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       81.60%    255.6MiB / 1GiB     24.96%    15.4MB / 4.36MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   55.31%    236.5MiB / 1GiB     23.10%    2.28MB / 8.32MB   85.7MB / 120MB   122
+5c09dccfde3c   ray-worker-b   37.34%    262.5MiB / 1GiB     25.63%    2.12MB / 7.13MB   81MB / 3.03MB    93
+07:23:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       88.49%    255.4MiB / 1GiB     24.95%    15.5MB / 4.37MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   51.47%    236.4MiB / 1GiB     23.09%    2.28MB / 8.34MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   50.27%    262.5MiB / 1GiB     25.64%    2.13MB / 7.15MB   81MB / 3.05MB    93
+07:23:17 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       100.07%   256MiB / 1GiB       25.00%    15.6MB / 4.39MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   46.66%    236.2MiB / 1GiB     23.06%    2.29MB / 8.37MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   47.64%    262.5MiB / 1GiB     25.64%    2.13MB / 7.17MB   81MB / 3.05MB    93
+07:23:22 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       37.90%    256.2MiB / 1GiB     25.02%    15.6MB / 4.41MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   26.03%    236.2MiB / 1GiB     23.06%    2.3MB / 8.41MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   40.00%    262.1MiB / 1GiB     25.60%    2.14MB / 7.19MB   81MB / 3.07MB    93
+07:23:26 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       104.06%   256.4MiB / 1GiB     25.03%    15.7MB / 4.42MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   67.27%    236.4MiB / 1GiB     23.08%    2.31MB / 8.43MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   33.71%    262.6MiB / 1GiB     25.65%    2.15MB / 7.22MB   81MB / 3.07MB    93
+07:23:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       86.38%    256.2MiB / 1GiB     25.02%    15.7MB / 4.43MB   205MB / 298MB    213
+5c99909656bc   ray-worker-a   54.79%    236.3MiB / 1GiB     23.08%    2.31MB / 8.46MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   31.69%    262.5MiB / 1GiB     25.64%    2.15MB / 7.24MB   81MB / 3.09MB    93
+07:23:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       81.21%    256.5MiB / 1GiB     25.04%    15.8MB / 4.45MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   56.02%    235.9MiB / 1GiB     23.04%    2.32MB / 8.5MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   19.75%    262.1MiB / 1GiB     25.59%    2.16MB / 7.26MB   81MB / 3.09MB    93
+07:23:39 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       103.55%   256.5MiB / 1GiB     25.05%    15.8MB / 4.46MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   59.97%    236.4MiB / 1GiB     23.08%    2.33MB / 8.54MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   40.12%    262.4MiB / 1GiB     25.62%    2.17MB / 7.3MB    81MB / 3.09MB    93
+07:23:44 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       95.40%    256.8MiB / 1GiB     25.08%    15.9MB / 4.47MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   51.22%    236.6MiB / 1GiB     23.11%    2.33MB / 8.55MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   36.97%    262.1MiB / 1GiB     25.60%    2.17MB / 7.31MB   81MB / 3.11MB    93
+07:23:48 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       95.10%    256.5MiB / 1GiB     25.05%    16MB / 4.49MB     205MB / 299MB    213
+5c99909656bc   ray-worker-a   67.81%    236.2MiB / 1GiB     23.06%    2.34MB / 8.59MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   43.47%    262.6MiB / 1GiB     25.64%    2.18MB / 7.33MB   81MB / 3.11MB    93
+07:23:52 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       114.68%   256.5MiB / 1GiB     25.05%    16MB / 4.51MB     205MB / 299MB    213
+5c99909656bc   ray-worker-a   96.09%    236.3MiB / 1GiB     23.08%    2.35MB / 8.61MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   41.55%    262.7MiB / 1GiB     25.65%    2.19MB / 7.35MB   81MB / 3.13MB    93
+07:23:57 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       114.10%   256.4MiB / 1GiB     25.04%    16.1MB / 4.51MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   68.86%    236.1MiB / 1GiB     23.05%    2.36MB / 8.65MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   29.44%    262.3MiB / 1GiB     25.62%    2.19MB / 7.38MB   81MB / 3.13MB    93
+07:24:02 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       85.99%    256.3MiB / 1GiB     25.03%    16.1MB / 4.53MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   75.69%    236.4MiB / 1GiB     23.09%    2.37MB / 8.68MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   29.24%    262.4MiB / 1GiB     25.62%    2.2MB / 7.41MB    81MB / 3.18MB    93
+07:24:06 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       137.51%   256.4MiB / 1GiB     25.04%    16.2MB / 4.55MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   73.94%    236.4MiB / 1GiB     23.09%    2.37MB / 8.72MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   35.87%    262.5MiB / 1GiB     25.64%    2.21MB / 7.42MB   81MB / 3.18MB    93
+07:24:11 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       34.41%    256.5MiB / 1GiB     25.05%    16.2MB / 4.56MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   27.11%    236MiB / 1GiB       23.05%    2.38MB / 8.74MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   43.98%    262.3MiB / 1GiB     25.62%    2.21MB / 7.45MB   81MB / 3.18MB    93
+07:24:15 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       57.49%    256.3MiB / 1GiB     25.03%    16.3MB / 4.57MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   34.29%    236.3MiB / 1GiB     23.07%    2.39MB / 8.77MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   37.91%    262.5MiB / 1GiB     25.64%    2.22MB / 7.48MB   81MB / 3.2MB     93
+07:24:19 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       70.93%    256.6MiB / 1GiB     25.06%    16.3MB / 4.59MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   63.94%    236.3MiB / 1GiB     23.08%    2.4MB / 8.81MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   32.49%    262.4MiB / 1GiB     25.62%    2.23MB / 7.49MB   81MB / 3.2MB     93
+07:24:24 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       201.92%   256.6MiB / 1GiB     25.06%    16.4MB / 4.6MB    205MB / 299MB    213
+5c99909656bc   ray-worker-a   67.68%    236.2MiB / 1GiB     23.06%    2.4MB / 8.83MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   39.47%    262.4MiB / 1GiB     25.62%    2.23MB / 7.52MB   81MB / 3.22MB    93
+07:24:28 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       120.29%   256.5MiB / 1GiB     25.05%    16.4MB / 4.62MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   77.88%    236.2MiB / 1GiB     23.07%    2.41MB / 8.87MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   56.83%    262.7MiB / 1GiB     25.65%    2.24MB / 7.55MB   81MB / 3.22MB    93
+07:24:33 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       65.20%    256.8MiB / 1GiB     25.08%    16.5MB / 4.63MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   67.10%    236.3MiB / 1GiB     23.07%    2.42MB / 8.9MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   45.29%    262.9MiB / 1GiB     25.67%    2.25MB / 7.56MB   81MB / 3.24MB    93
+07:24:37 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       114.95%   256.5MiB / 1GiB     25.05%    16.5MB / 4.64MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   56.10%    236.3MiB / 1GiB     23.07%    2.42MB / 8.92MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   25.26%    262.4MiB / 1GiB     25.63%    2.25MB / 7.59MB   81MB / 3.24MB    93
+07:24:41 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       93.92%    256.6MiB / 1GiB     25.06%    16.6MB / 4.66MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   67.11%    236.3MiB / 1GiB     23.07%    2.43MB / 8.96MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   52.11%    262.7MiB / 1GiB     25.66%    2.26MB / 7.62MB   81MB / 3.26MB    93
+07:24:46 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       77.52%    256.8MiB / 1GiB     25.08%    16.7MB / 4.67MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   64.15%    236.3MiB / 1GiB     23.07%    2.44MB / 8.99MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   38.33%    262.5MiB / 1GiB     25.63%    2.27MB / 7.63MB   81MB / 3.26MB    93
+07:24:50 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       80.32%    256.8MiB / 1GiB     25.08%    16.7MB / 4.68MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   41.53%    236.6MiB / 1GiB     23.10%    2.45MB / 9.01MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   67.08%    262.3MiB / 1GiB     25.62%    2.28MB / 7.67MB   81MB / 3.28MB    93
+07:24:54 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       116.31%   257MiB / 1GiB       25.10%    16.8MB / 4.7MB    205MB / 299MB    213
+5c99909656bc   ray-worker-a   47.62%    236.5MiB / 1GiB     23.10%    2.45MB / 9.05MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   42.56%    262.1MiB / 1GiB     25.59%    2.28MB / 7.69MB   81MB / 3.28MB    93
+07:24:59 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       89.95%    256.9MiB / 1GiB     25.09%    16.8MB / 4.71MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   63.60%    236.4MiB / 1GiB     23.08%    2.46MB / 9.08MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   48.10%    262MiB / 1GiB       25.59%    2.29MB / 7.72MB   81MB / 3.28MB    93
+07:25:03 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       86.64%    257.1MiB / 1GiB     25.11%    16.9MB / 4.73MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   67.53%    236.3MiB / 1GiB     23.07%    2.47MB / 9.1MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   26.72%    262.1MiB / 1GiB     25.59%    2.29MB / 7.73MB   81MB / 3.33MB    93
+07:25:07 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       99.95%    257MiB / 1GiB       25.09%    16.9MB / 4.74MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   73.05%    236.8MiB / 1GiB     23.12%    2.48MB / 9.14MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   37.72%    262.4MiB / 1GiB     25.62%    2.3MB / 7.76MB    81MB / 3.33MB    93
+07:25:12 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       99.38%    257.1MiB / 1GiB     25.11%    17MB / 4.75MB     205MB / 299MB    213
+5c99909656bc   ray-worker-a   79.69%    236.6MiB / 1GiB     23.11%    2.48MB / 9.16MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   61.34%    262.6MiB / 1GiB     25.65%    2.31MB / 7.79MB   81MB / 3.35MB    93
+07:25:16 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       91.58%    257.1MiB / 1GiB     25.11%    17MB / 4.77MB     205MB / 299MB    213
+5c99909656bc   ray-worker-a   58.92%    236.7MiB / 1GiB     23.11%    2.49MB / 9.19MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   27.37%    262.5MiB / 1GiB     25.63%    2.31MB / 7.8MB    81MB / 3.35MB    93
+07:25:20 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       120.85%   257.2MiB / 1GiB     25.12%    17.1MB / 4.78MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   73.55%    236.8MiB / 1GiB     23.12%    2.5MB / 9.23MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   25.24%    262.4MiB / 1GiB     25.63%    2.32MB / 7.83MB   81MB / 3.35MB    93
+07:25:25 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       103.76%   257.1MiB / 1GiB     25.11%    17.1MB / 4.79MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   84.20%    236.6MiB / 1GiB     23.11%    2.51MB / 9.25MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   61.21%    262.5MiB / 1GiB     25.64%    2.33MB / 7.86MB   81MB / 3.37MB    93
+07:25:29 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       96.65%    257MiB / 1GiB       25.10%    17.2MB / 4.81MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   58.74%    236.5MiB / 1GiB     23.10%    2.51MB / 9.28MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   43.69%    262.7MiB / 1GiB     25.65%    2.33MB / 7.87MB   81MB / 3.37MB    93
+07:25:34 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       80.93%    256.6MiB / 1GiB     25.05%    17.2MB / 4.82MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   52.67%    236.6MiB / 1GiB     23.11%    2.52MB / 9.32MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   50.96%    262.6MiB / 1GiB     25.64%    2.34MB / 7.9MB    81MB / 3.39MB    93
+07:25:38 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       78.28%    257MiB / 1GiB       25.10%    17.3MB / 4.83MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   50.43%    236.7MiB / 1GiB     23.12%    2.52MB / 9.34MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   44.69%    262.7MiB / 1GiB     25.65%    2.35MB / 7.93MB   81MB / 3.39MB    93
+07:25:42 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       103.90%   256.8MiB / 1GiB     25.08%    17.3MB / 4.85MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   74.61%    236.7MiB / 1GiB     23.11%    2.53MB / 9.38MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   57.24%    262.6MiB / 1GiB     25.65%    2.35MB / 7.94MB   81MB / 3.41MB    93
+07:25:46 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       73.58%    256.9MiB / 1GiB     25.09%    17.4MB / 4.86MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   66.91%    236.8MiB / 1GiB     23.12%    2.54MB / 9.41MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   52.29%    262.9MiB / 1GiB     25.67%    2.36MB / 7.97MB   81MB / 3.41MB    93
+07:25:51 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       32.36%    256.5MiB / 1GiB     25.05%    17.5MB / 4.88MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   74.06%    236.6MiB / 1GiB     23.11%    2.55MB / 9.43MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   12.01%    262.9MiB / 1GiB     25.68%    2.37MB / 7.99MB   81MB / 3.43MB    93
+07:25:56 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       83.97%    256.6MiB / 1GiB     25.05%    17.5MB / 4.89MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   37.08%    236.9MiB / 1GiB     23.14%    2.55MB / 9.47MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   31.98%    262.7MiB / 1GiB     25.65%    2.37MB / 8.01MB   81MB / 3.43MB    93
+07:26:00 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       74.96%    256.3MiB / 1GiB     25.03%    17.6MB / 4.91MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   70.83%    236.8MiB / 1GiB     23.12%    2.56MB / 9.5MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   25.75%    262.5MiB / 1GiB     25.63%    2.38MB / 8.04MB   81MB / 3.46MB    93
+07:26:04 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       90.33%    256.8MiB / 1GiB     25.08%    17.6MB / 4.92MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   70.35%    236.7MiB / 1GiB     23.12%    2.57MB / 9.54MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   38.49%    262.5MiB / 1GiB     25.64%    2.39MB / 8.06MB   81MB / 3.48MB    93
+07:26:09 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       125.64%   257.1MiB / 1GiB     25.11%    17.7MB / 4.94MB   205MB / 299MB    213
+5c99909656bc   ray-worker-a   79.19%    236.8MiB / 1GiB     23.13%    2.58MB / 9.56MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   41.84%    262.7MiB / 1GiB     25.65%    2.39MB / 8.08MB   81MB / 3.48MB    93
+07:26:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       94.91%    256.8MiB / 1GiB     25.08%    17.7MB / 4.95MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   56.63%    236.7MiB / 1GiB     23.12%    2.58MB / 9.59MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   33.81%    262.7MiB / 1GiB     25.65%    2.4MB / 8.11MB    81MB / 3.5MB     93
+07:26:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       65.09%    256.7MiB / 1GiB     25.07%    17.8MB / 4.96MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   48.75%    236.4MiB / 1GiB     23.08%    2.59MB / 9.61MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   28.84%    262.4MiB / 1GiB     25.62%    2.41MB / 8.13MB   81MB / 3.5MB     93
+07:26:23 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       59.67%    256.5MiB / 1GiB     25.05%    17.8MB / 4.98MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   38.39%    236.3MiB / 1GiB     23.08%    2.6MB / 9.65MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   19.00%    262.8MiB / 1GiB     25.67%    2.42MB / 8.16MB   81MB / 3.52MB    93
+07:26:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       54.17%    256.8MiB / 1GiB     25.08%    17.9MB / 4.99MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   41.36%    236.6MiB / 1GiB     23.10%    2.61MB / 9.69MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   32.13%    262.7MiB / 1GiB     25.65%    2.42MB / 8.19MB   81MB / 3.52MB    93
+07:26:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       102.29%   256.9MiB / 1GiB     25.09%    17.9MB / 5.01MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   41.86%    237MiB / 1GiB       23.15%    2.61MB / 9.71MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   36.36%    263.1MiB / 1GiB     25.69%    2.43MB / 8.2MB    81MB / 3.54MB    93
+07:26:36 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       95.53%    257MiB / 1GiB       25.10%    18MB / 5.02MB     205MB / 300MB    213
+5c99909656bc   ray-worker-a   71.63%    237MiB / 1GiB       23.14%    2.62MB / 9.74MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   52.43%    262.9MiB / 1GiB     25.67%    2.44MB / 8.23MB   81MB / 3.54MB    93
+07:26:40 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       94.45%    257.3MiB / 1GiB     25.13%    18.1MB / 5.04MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   76.04%    236.8MiB / 1GiB     23.12%    2.63MB / 9.78MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   42.17%    262.5MiB / 1GiB     25.64%    2.44MB / 8.25MB   81MB / 3.54MB    93
+07:26:45 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       122.59%   256.7MiB / 1GiB     25.07%    18.1MB / 5.04MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   62.39%    236.9MiB / 1GiB     23.13%    2.63MB / 9.8MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   39.56%    262.7MiB / 1GiB     25.65%    2.45MB / 8.27MB   81MB / 3.56MB    93
+07:26:49 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       104.29%   256.9MiB / 1GiB     25.09%    18.2MB / 5.06MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   59.21%    236.6MiB / 1GiB     23.10%    2.64MB / 9.83MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   41.91%    262.2MiB / 1GiB     25.61%    2.46MB / 8.3MB    81MB / 3.56MB    93
+07:26:54 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       101.59%   256.4MiB / 1GiB     25.04%    18.2MB / 5.07MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   51.83%    236.4MiB / 1GiB     23.09%    2.65MB / 9.87MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   50.08%    262.8MiB / 1GiB     25.66%    2.46MB / 8.33MB   81MB / 3.58MB    93
+07:26:58 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       90.28%    257.1MiB / 1GiB     25.11%    18.3MB / 5.09MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   63.74%    236.4MiB / 1GiB     23.08%    2.66MB / 9.89MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   36.08%    262.9MiB / 1GiB     25.67%    2.47MB / 8.34MB   81MB / 3.58MB    93
+07:27:02 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       118.96%   256.9MiB / 1GiB     25.09%    18.3MB / 5.1MB    205MB / 300MB    213
+5c99909656bc   ray-worker-a   59.82%    236.6MiB / 1GiB     23.11%    2.66MB / 9.92MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   58.42%    263MiB / 1GiB       25.68%    2.48MB / 8.37MB   81MB / 3.63MB    93
+07:27:07 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       113.73%   257.2MiB / 1GiB     25.11%    18.4MB / 5.11MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   43.52%    236.4MiB / 1GiB     23.09%    2.67MB / 9.96MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   45.10%    262.7MiB / 1GiB     25.65%    2.48MB / 8.4MB    81MB / 3.63MB    93
+07:27:11 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       62.13%    257.1MiB / 1GiB     25.11%    18.4MB / 5.14MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   33.00%    236.6MiB / 1GiB     23.11%    2.68MB / 9.98MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   16.44%    262.5MiB / 1GiB     25.63%    2.49MB / 8.41MB   81MB / 3.63MB    93
+07:27:16 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       162.72%   256.7MiB / 1GiB     25.07%    18.5MB / 5.15MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   87.86%    236.8MiB / 1GiB     23.12%    2.69MB / 10MB     85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   55.06%    262.6MiB / 1GiB     25.65%    2.49MB / 8.44MB   81MB / 3.65MB    93
+07:27:20 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       69.72%    256.8MiB / 1GiB     25.08%    18.5MB / 5.16MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   108.46%   236.4MiB / 1GiB     23.08%    2.7MB / 10.1MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   58.22%    262.6MiB / 1GiB     25.64%    2.5MB / 8.47MB    81MB / 3.67MB    93
+07:27:25 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       79.39%    256.8MiB / 1GiB     25.08%    18.6MB / 5.18MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   44.71%    236.4MiB / 1GiB     23.09%    2.7MB / 10.1MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   32.30%    262.4MiB / 1GiB     25.63%    2.51MB / 8.5MB    81MB / 3.67MB    93
+07:27:30 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       90.40%    256.7MiB / 1GiB     25.07%    18.6MB / 5.19MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   53.56%    236.6MiB / 1GiB     23.11%    2.71MB / 10.1MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   40.26%    262.4MiB / 1GiB     25.63%    2.52MB / 8.51MB   81MB / 3.67MB    93
+07:27:34 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       70.60%    256.8MiB / 1GiB     25.08%    18.7MB / 5.2MB    205MB / 300MB    213
+5c99909656bc   ray-worker-a   36.09%    236.5MiB / 1GiB     23.10%    2.72MB / 10.1MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   39.56%    262.8MiB / 1GiB     25.67%    2.52MB / 8.54MB   81MB / 3.69MB    93
+07:27:38 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       86.26%    256.8MiB / 1GiB     25.08%    18.8MB / 5.22MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   56.27%    236.7MiB / 1GiB     23.11%    2.73MB / 10.2MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   52.82%    262.7MiB / 1GiB     25.66%    2.53MB / 8.55MB   81MB / 3.69MB    93
+07:27:43 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       121.82%   256.6MiB / 1GiB     25.05%    18.8MB / 5.24MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   62.95%    236.3MiB / 1GiB     23.08%    2.73MB / 10.2MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   47.13%    262.8MiB / 1GiB     25.66%    2.54MB / 8.58MB   81MB / 3.71MB    93
+07:27:47 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       56.44%    256.7MiB / 1GiB     25.07%    18.9MB / 5.25MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   24.21%    236.7MiB / 1GiB     23.11%    2.74MB / 10.2MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   40.74%    262.4MiB / 1GiB     25.62%    2.54MB / 8.61MB   81MB / 3.71MB    93
+07:27:52 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       26.09%    257.1MiB / 1GiB     25.10%    18.9MB / 5.26MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   30.05%    236.3MiB / 1GiB     23.07%    2.75MB / 10.3MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   33.51%    262.3MiB / 1GiB     25.62%    2.55MB / 8.64MB   81MB / 3.73MB    93
+07:27:56 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       20.19%    257.1MiB / 1GiB     25.11%    19MB / 5.27MB     205MB / 300MB    213
+5c99909656bc   ray-worker-a   19.08%    236.7MiB / 1GiB     23.12%    2.75MB / 10.3MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   16.93%    262.6MiB / 1GiB     25.65%    2.56MB / 8.66MB   81MB / 3.73MB    93
+07:28:00 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       79.76%    257MiB / 1GiB       25.10%    19MB / 5.29MB     205MB / 300MB    213
+5c99909656bc   ray-worker-a   54.86%    236.3MiB / 1GiB     23.08%    2.76MB / 10.3MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   78.60%    262.9MiB / 1GiB     25.67%    2.56MB / 8.68MB   81MB / 3.76MB    93
+07:28:05 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       87.06%    256.9MiB / 1GiB     25.09%    19.1MB / 5.3MB    205MB / 300MB    213
+5c99909656bc   ray-worker-a   54.99%    236MiB / 1GiB       23.05%    2.77MB / 10.4MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   22.23%    262.6MiB / 1GiB     25.65%    2.57MB / 8.69MB   81MB / 3.78MB    93
+07:28:09 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       88.05%    256.8MiB / 1GiB     25.07%    19.1MB / 5.31MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   56.46%    236.2MiB / 1GiB     23.07%    2.77MB / 10.4MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   33.88%    262.9MiB / 1GiB     25.67%    2.58MB / 8.72MB   81MB / 3.78MB    93
+07:28:13 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       73.89%    256.9MiB / 1GiB     25.09%    19.2MB / 5.33MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   44.36%    236.1MiB / 1GiB     23.06%    2.78MB / 10.4MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   34.52%    262.6MiB / 1GiB     25.65%    2.58MB / 8.75MB   81MB / 3.8MB     93
+07:28:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       77.77%    256.9MiB / 1GiB     25.09%    19.2MB / 5.34MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   76.97%    236.3MiB / 1GiB     23.08%    2.79MB / 10.5MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   40.27%    262.8MiB / 1GiB     25.67%    2.59MB / 8.77MB   81MB / 3.8MB     93
+07:28:22 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       118.20%   257.4MiB / 1GiB     25.14%    19.3MB / 5.36MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   69.31%    236.4MiB / 1GiB     23.08%    2.8MB / 10.5MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   21.69%    262.8MiB / 1GiB     25.66%    2.59MB / 8.79MB   81MB / 3.82MB    93
+07:28:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       79.34%    257.6MiB / 1GiB     25.16%    19.3MB / 5.37MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   66.24%    236MiB / 1GiB       23.05%    2.8MB / 10.5MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   57.47%    262.6MiB / 1GiB     25.64%    2.6MB / 8.82MB    81MB / 3.82MB    93
+07:28:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       120.91%   257.4MiB / 1GiB     25.14%    19.4MB / 5.39MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   97.33%    236.4MiB / 1GiB     23.09%    2.81MB / 10.5MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   42.63%    262.5MiB / 1GiB     25.63%    2.61MB / 8.83MB   81MB / 3.82MB    93
+07:28:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       98.69%    257.9MiB / 1GiB     25.19%    19.4MB / 5.4MB    205MB / 300MB    213
+5c99909656bc   ray-worker-a   56.19%    236.1MiB / 1GiB     23.06%    2.82MB / 10.6MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   53.36%    262.2MiB / 1GiB     25.60%    2.61MB / 8.86MB   81MB / 3.84MB    93
+07:28:40 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       146.55%   257.9MiB / 1GiB     25.19%    19.5MB / 5.41MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   46.21%    236.2MiB / 1GiB     23.06%    2.83MB / 10.6MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   30.24%    262.7MiB / 1GiB     25.65%    2.62MB / 8.89MB   81MB / 3.84MB    93
+07:28:44 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       94.82%    257.8MiB / 1GiB     25.17%    19.5MB / 5.42MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   76.42%    236.3MiB / 1GiB     23.08%    2.83MB / 10.6MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   23.58%    262.3MiB / 1GiB     25.61%    2.63MB / 8.9MB    81MB / 3.86MB    93
+07:28:49 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       115.80%   257.8MiB / 1GiB     25.17%    19.6MB / 5.44MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   45.49%    236.6MiB / 1GiB     23.10%    2.84MB / 10.7MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   31.39%    262.7MiB / 1GiB     25.65%    2.63MB / 8.93MB   81MB / 3.86MB    93
+07:28:53 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       58.97%    257.7MiB / 1GiB     25.17%    19.7MB / 5.45MB   205MB / 300MB    213
+5c99909656bc   ray-worker-a   78.54%    236.4MiB / 1GiB     23.08%    2.85MB / 10.7MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   17.78%    263MiB / 1GiB       25.68%    2.64MB / 8.96MB   81MB / 3.88MB    93
+07:28:58 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       107.74%   257.6MiB / 1GiB     25.16%    19.7MB / 5.47MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   55.76%    236.5MiB / 1GiB     23.10%    2.85MB / 10.7MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   40.61%    262.8MiB / 1GiB     25.66%    2.65MB / 8.98MB   81MB / 3.91MB    93
+07:29:02 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       110.69%   257.3MiB / 1GiB     25.13%    19.8MB / 5.48MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   62.79%    236.7MiB / 1GiB     23.11%    2.86MB / 10.7MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   56.50%    262.8MiB / 1GiB     25.66%    2.65MB / 9MB      81MB / 3.93MB    93
+07:29:07 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       78.01%    257.6MiB / 1GiB     25.16%    19.8MB / 5.49MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   66.32%    236.3MiB / 1GiB     23.08%    2.87MB / 10.8MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   50.89%    262.9MiB / 1GiB     25.67%    2.66MB / 9.03MB   81MB / 3.93MB    93
+07:29:11 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       93.23%    257.1MiB / 1GiB     25.11%    19.9MB / 5.51MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   75.89%    236.6MiB / 1GiB     23.11%    2.88MB / 10.8MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   41.91%    262.7MiB / 1GiB     25.66%    2.67MB / 9.05MB   81MB / 3.95MB    93
+07:29:16 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       84.58%    257.1MiB / 1GiB     25.11%    19.9MB / 5.52MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   78.08%    236.3MiB / 1GiB     23.07%    2.89MB / 10.9MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   54.91%    263MiB / 1GiB       25.68%    2.68MB / 9.08MB   81MB / 3.95MB    93
+07:29:20 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       125.36%   257MiB / 1GiB       25.10%    20MB / 5.54MB     205MB / 301MB    213
+5c99909656bc   ray-worker-a   50.17%    236.1MiB / 1GiB     23.05%    2.89MB / 10.9MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   59.82%    263MiB / 1GiB       25.68%    2.69MB / 9.11MB   81MB / 3.95MB    93
+07:29:25 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       104.35%   256.9MiB / 1GiB     25.09%    20.1MB / 5.55MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   84.68%    236.6MiB / 1GiB     23.11%    2.9MB / 10.9MB    85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   38.80%    262.6MiB / 1GiB     25.65%    2.69MB / 9.12MB   81MB / 3.97MB    93
+07:29:29 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       101.79%   256.9MiB / 1GiB     25.09%    20.1MB / 5.57MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   69.56%    236.7MiB / 1GiB     23.11%    2.91MB / 10.9MB   85.7MB / 121MB   122
+5c09dccfde3c   ray-worker-b   55.32%    262.8MiB / 1GiB     25.67%    2.7MB / 9.15MB    81MB / 3.97MB    93
+07:29:34 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       73.95%    257.1MiB / 1GiB     25.11%    20.2MB / 5.58MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   40.90%    236.6MiB / 1GiB     23.11%    2.91MB / 11MB     85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   46.61%    263MiB / 1GiB       25.68%    2.7MB / 9.16MB    81MB / 3.99MB    93
+07:29:38 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       94.59%    256.8MiB / 1GiB     25.07%    20.2MB / 5.6MB    205MB / 301MB    213
+5c99909656bc   ray-worker-a   66.13%    236.3MiB / 1GiB     23.08%    2.92MB / 11MB     85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   34.45%    263MiB / 1GiB       25.68%    2.71MB / 9.19MB   81MB / 3.99MB    93
+07:29:43 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       103.90%   257.1MiB / 1GiB     25.11%    20.3MB / 5.61MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   73.37%    236.7MiB / 1GiB     23.12%    2.93MB / 11MB     85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   31.79%    263MiB / 1GiB       25.68%    2.72MB / 9.22MB   81MB / 4.01MB    93
+07:29:47 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       80.34%    257.4MiB / 1GiB     25.14%    20.3MB / 5.63MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   52.68%    236.7MiB / 1GiB     23.12%    2.94MB / 11.1MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   57.60%    262.9MiB / 1GiB     25.67%    2.72MB / 9.23MB   81MB / 4.01MB    93
+07:29:52 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       85.11%    257.4MiB / 1GiB     25.13%    20.4MB / 5.64MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   56.82%    237MiB / 1GiB       23.14%    2.94MB / 11.1MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   26.42%    263.3MiB / 1GiB     25.71%    2.73MB / 9.26MB   81MB / 4.01MB    93
+07:29:56 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       158.93%   257.3MiB / 1GiB     25.13%    20.4MB / 5.65MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   63.63%    236.4MiB / 1GiB     23.09%    2.95MB / 11.1MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   34.65%    263.4MiB / 1GiB     25.72%    2.74MB / 9.29MB   81MB / 4.03MB    93
+07:30:01 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       39.60%    257.8MiB / 1GiB     25.17%    20.5MB / 5.67MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   21.42%    236.9MiB / 1GiB     23.13%    2.96MB / 11.1MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   11.24%    262.9MiB / 1GiB     25.67%    2.74MB / 9.3MB    81MB / 4.06MB    93
+07:30:05 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       75.81%    257.8MiB / 1GiB     25.17%    20.6MB / 5.68MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   33.79%    236.4MiB / 1GiB     23.09%    2.97MB / 11.2MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   28.83%    262.7MiB / 1GiB     25.65%    2.75MB / 9.33MB   81MB / 4.08MB    93
+07:30:10 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       79.21%    257.1MiB / 1GiB     25.11%    20.6MB / 5.69MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   72.06%    236.4MiB / 1GiB     23.09%    2.97MB / 11.2MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   34.04%    263.3MiB / 1GiB     25.71%    2.76MB / 9.36MB   81MB / 4.08MB    93
+07:30:14 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       59.64%    257.2MiB / 1GiB     25.12%    20.7MB / 5.71MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   60.72%    236.8MiB / 1GiB     23.13%    2.98MB / 11.2MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   26.67%    263.1MiB / 1GiB     25.69%    2.77MB / 9.39MB   81MB / 4.1MB     93
+07:30:19 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       89.14%    257MiB / 1GiB       25.10%    20.7MB / 5.72MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   55.53%    236.7MiB / 1GiB     23.11%    2.99MB / 11.3MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   21.93%    262.7MiB / 1GiB     25.66%    2.77MB / 9.4MB    81MB / 4.1MB     93
+07:30:23 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       96.74%    257.3MiB / 1GiB     25.12%    20.8MB / 5.74MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   51.22%    236.7MiB / 1GiB     23.12%    2.99MB / 11.3MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   43.18%    263.1MiB / 1GiB     25.69%    2.78MB / 9.43MB   81MB / 4.12MB    93
+07:30:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       71.81%    257.3MiB / 1GiB     25.13%    20.8MB / 5.75MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   60.80%    236.9MiB / 1GiB     23.13%    3MB / 11.3MB      85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   37.48%    263.3MiB / 1GiB     25.71%    2.78MB / 9.46MB   81MB / 4.12MB    93
+07:30:32 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       97.01%    256.9MiB / 1GiB     25.09%    20.9MB / 5.77MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   76.54%    236.6MiB / 1GiB     23.11%    3.01MB / 11.4MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   24.12%    263.5MiB / 1GiB     25.73%    2.79MB / 9.47MB   81MB / 4.12MB    93
+07:30:36 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       126.48%   257.3MiB / 1GiB     25.13%    20.9MB / 5.78MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   66.84%    236.7MiB / 1GiB     23.12%    3.01MB / 11.4MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   45.47%    263.7MiB / 1GiB     25.75%    2.8MB / 9.5MB     81MB / 4.14MB    93
+07:30:40 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       67.72%    257.2MiB / 1GiB     25.12%    21MB / 5.79MB     205MB / 301MB    213
+5c99909656bc   ray-worker-a   78.59%    236MiB / 1GiB       23.05%    3.02MB / 11.4MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   56.51%    263.4MiB / 1GiB     25.72%    2.8MB / 9.53MB    81MB / 4.14MB    93
+07:30:44 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       93.89%    257.5MiB / 1GiB     25.14%    21MB / 5.8MB      205MB / 301MB    213
+5c99909656bc   ray-worker-a   58.43%    236MiB / 1GiB       23.04%    3.03MB / 11.4MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   31.97%    263.7MiB / 1GiB     25.75%    2.81MB / 9.54MB   81MB / 4.16MB    93
+07:30:48 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       80.88%    257.4MiB / 1GiB     25.14%    21.1MB / 5.82MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   44.91%    236.4MiB / 1GiB     23.08%    3.04MB / 11.5MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   68.94%    263.6MiB / 1GiB     25.74%    2.82MB / 9.57MB   81MB / 4.16MB    93
+07:30:53 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       93.71%    257.5MiB / 1GiB     25.15%    21.1MB / 5.83MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   68.48%    236.4MiB / 1GiB     23.09%    3.04MB / 11.5MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   55.04%    263.6MiB / 1GiB     25.74%    2.82MB / 9.58MB   81MB / 4.18MB    93
+07:30:57 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       169.74%   257.4MiB / 1GiB     25.14%    21.2MB / 5.84MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   60.04%    236.3MiB / 1GiB     23.08%    3.05MB / 11.5MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   36.66%    263.4MiB / 1GiB     25.72%    2.83MB / 9.61MB   81MB / 4.18MB    93
+07:31:01 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       80.80%    257MiB / 1GiB       25.10%    21.2MB / 5.86MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   57.35%    236.3MiB / 1GiB     23.08%    3.06MB / 11.6MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   46.14%    263.2MiB / 1GiB     25.71%    2.84MB / 9.64MB   81MB / 4.23MB    93
+07:31:06 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       144.10%   257.6MiB / 1GiB     25.16%    21.3MB / 5.87MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   57.69%    236.2MiB / 1GiB     23.06%    3.06MB / 11.6MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   64.78%    263.1MiB / 1GiB     25.69%    2.84MB / 9.67MB   81MB / 4.23MB    93
+07:31:10 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       135.97%   257.2MiB / 1GiB     25.12%    21.3MB / 5.88MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   66.99%    236.4MiB / 1GiB     23.09%    3.07MB / 11.6MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   38.04%    263.3MiB / 1GiB     25.71%    2.85MB / 9.68MB   81MB / 4.23MB    93
+07:31:15 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       99.69%    257.6MiB / 1GiB     25.16%    21.4MB / 5.9MB    205MB / 301MB    213
+5c99909656bc   ray-worker-a   95.99%    236.6MiB / 1GiB     23.11%    3.08MB / 11.7MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   44.92%    262.7MiB / 1GiB     25.66%    2.86MB / 9.71MB   81MB / 4.25MB    93
+07:31:19 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       87.05%    257.8MiB / 1GiB     25.18%    21.5MB / 5.92MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   48.88%    236.5MiB / 1GiB     23.10%    3.09MB / 11.7MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   26.41%    263.3MiB / 1GiB     25.72%    2.86MB / 9.72MB   81MB / 4.25MB    93
+07:31:24 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       49.62%    257.5MiB / 1GiB     25.15%    21.5MB / 5.93MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   37.10%    236.3MiB / 1GiB     23.07%    3.09MB / 11.7MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   29.35%    263.3MiB / 1GiB     25.71%    2.87MB / 9.75MB   81MB / 4.27MB    93
+07:31:28 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       162.55%   258MiB / 1GiB       25.19%    21.5MB / 5.94MB   205MB / 301MB    213
+5c99909656bc   ray-worker-a   76.12%    236.4MiB / 1GiB     23.09%    3.1MB / 11.7MB    85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   23.21%    262.7MiB / 1GiB     25.65%    2.88MB / 9.78MB   81MB / 4.27MB    93
+07:31:33 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       121.05%   257.9MiB / 1GiB     25.19%    21.6MB / 5.95MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   73.04%    236.6MiB / 1GiB     23.10%    3.11MB / 11.8MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   50.27%    263MiB / 1GiB       25.69%    2.88MB / 9.81MB   81MB / 4.29MB    93
+07:31:37 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       70.71%    258.2MiB / 1GiB     25.21%    21.6MB / 5.97MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   82.56%    236.7MiB / 1GiB     23.12%    3.12MB / 11.8MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   44.08%    263.1MiB / 1GiB     25.69%    2.89MB / 9.82MB   81MB / 4.29MB    93
+07:31:42 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       170.63%   257.3MiB / 1GiB     25.13%    21.7MB / 5.99MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   82.42%    236.7MiB / 1GiB     23.12%    3.12MB / 11.8MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   33.03%    263.2MiB / 1GiB     25.70%    2.9MB / 9.85MB    81MB / 4.29MB    93
+07:31:47 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       121.49%   257.5MiB / 1GiB     25.15%    21.8MB / 6MB      205MB / 302MB    213
+5c99909656bc   ray-worker-a   60.02%    236.6MiB / 1GiB     23.10%    3.13MB / 11.9MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   48.82%    262.9MiB / 1GiB     25.67%    2.9MB / 9.87MB    81MB / 4.31MB    93
+07:31:51 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       78.86%    257.7MiB / 1GiB     25.16%    21.8MB / 6.02MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   46.33%    236.6MiB / 1GiB     23.10%    3.14MB / 11.9MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   34.99%    263.2MiB / 1GiB     25.70%    2.91MB / 9.89MB   81MB / 4.31MB    93
+07:31:56 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       109.55%   257.9MiB / 1GiB     25.18%    21.9MB / 6.03MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   65.11%    236.7MiB / 1GiB     23.11%    3.15MB / 11.9MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   39.67%    263MiB / 1GiB       25.68%    2.92MB / 9.92MB   81MB / 4.33MB    93
+07:32:00 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       51.60%    258.3MiB / 1GiB     25.23%    21.9MB / 6.04MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   44.26%    236.6MiB / 1GiB     23.11%    3.15MB / 12MB     85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   29.74%    263.2MiB / 1GiB     25.70%    2.92MB / 9.94MB   81MB / 4.35MB    93
+07:32:05 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       45.90%    257.8MiB / 1GiB     25.17%    22MB / 6.06MB     205MB / 302MB    213
+5c99909656bc   ray-worker-a   26.17%    236.7MiB / 1GiB     23.11%    3.16MB / 12MB     85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   52.84%    263.2MiB / 1GiB     25.70%    2.93MB / 9.96MB   81MB / 4.37MB    93
+07:32:09 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       88.94%    258MiB / 1GiB       25.19%    22.1MB / 6.07MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   56.51%    236MiB / 1GiB       23.05%    3.17MB / 12MB     85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   44.25%    263.1MiB / 1GiB     25.69%    2.94MB / 9.99MB   81MB / 4.37MB    93
+07:32:14 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       48.00%    258MiB / 1GiB       25.19%    22.1MB / 6.09MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   33.96%    236.8MiB / 1GiB     23.12%    3.18MB / 12.1MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   36.12%    263MiB / 1GiB       25.68%    2.94MB / 10MB     81MB / 4.4MB     93
+07:32:18 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       71.53%    257.9MiB / 1GiB     25.19%    22.2MB / 6.1MB    205MB / 302MB    213
+5c99909656bc   ray-worker-a   47.79%    236.7MiB / 1GiB     23.12%    3.19MB / 12.1MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   67.84%    262.9MiB / 1GiB     25.67%    2.95MB / 10MB     81MB / 4.4MB     93
+07:32:22 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       95.79%    258MiB / 1GiB       25.20%    22.2MB / 6.12MB   205MB / 302MB    213
+5c99909656bc   ray-worker-a   60.50%    236.6MiB / 1GiB     23.10%    3.19MB / 12.1MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   34.06%    263.2MiB / 1GiB     25.70%    2.96MB / 10.1MB   81MB / 4.42MB    93
+07:32:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       142.09%   262.1MiB / 1GiB     25.59%    22.3MB / 6.13MB   209MB / 302MB    214
+5c99909656bc   ray-worker-a   33.84%    236.9MiB / 1GiB     23.13%    3.2MB / 12.1MB    85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   39.33%    262.6MiB / 1GiB     25.65%    2.96MB / 10.1MB   81MB / 4.42MB    93
+07:32:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       73.53%    264MiB / 1GiB       25.78%    22.3MB / 6.14MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   68.54%    236.8MiB / 1GiB     23.13%    3.21MB / 12.2MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   32.09%    263.2MiB / 1GiB     25.70%    2.97MB / 10.1MB   81MB / 4.44MB    93
+07:32:36 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       116.21%   264MiB / 1GiB       25.78%    22.4MB / 6.16MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   84.90%    236.9MiB / 1GiB     23.13%    3.22MB / 12.2MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   37.17%    263.3MiB / 1GiB     25.72%    2.98MB / 10.1MB   81MB / 4.44MB    93
+07:32:40 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       131.05%   263.6MiB / 1GiB     25.74%    22.4MB / 6.17MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   69.90%    236.9MiB / 1GiB     23.14%    3.22MB / 12.2MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   51.68%    262.8MiB / 1GiB     25.66%    2.98MB / 10.2MB   81MB / 4.44MB    93
+07:32:45 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       161.41%   263.3MiB / 1GiB     25.72%    22.5MB / 6.19MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   87.33%    237.2MiB / 1GiB     23.17%    3.23MB / 12.3MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   59.31%    262.8MiB / 1GiB     25.66%    2.99MB / 10.2MB   81MB / 4.46MB    93
+07:32:49 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       58.89%    263.1MiB / 1GiB     25.70%    22.6MB / 6.2MB    211MB / 302MB    213
+5c99909656bc   ray-worker-a   31.72%    236.6MiB / 1GiB     23.11%    3.24MB / 12.3MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   22.15%    262.9MiB / 1GiB     25.68%    3MB / 10.2MB      81MB / 4.46MB    93
+07:32:54 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       76.88%    263.1MiB / 1GiB     25.69%    22.6MB / 6.22MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   67.23%    236.9MiB / 1GiB     23.13%    3.25MB / 12.3MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   27.96%    262.7MiB / 1GiB     25.65%    3MB / 10.2MB      81MB / 4.48MB    93
+07:32:59 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       129.60%   263.1MiB / 1GiB     25.70%    22.7MB / 6.23MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   51.83%    237MiB / 1GiB       23.14%    3.25MB / 12.4MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   36.97%    262.7MiB / 1GiB     25.66%    3.01MB / 10.3MB   81MB / 4.51MB    93
+07:33:03 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       65.57%    263.4MiB / 1GiB     25.72%    22.7MB / 6.24MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   51.40%    237.2MiB / 1GiB     23.16%    3.26MB / 12.4MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   42.52%    263.1MiB / 1GiB     25.69%    3.02MB / 10.3MB   81MB / 4.53MB    93
+07:33:08 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       95.74%    263.1MiB / 1GiB     25.69%    22.8MB / 6.26MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   64.86%    236.6MiB / 1GiB     23.11%    3.26MB / 12.4MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   52.37%    262.6MiB / 1GiB     25.64%    3.03MB / 10.3MB   81MB / 4.53MB    93
+07:33:12 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       141.69%   263.2MiB / 1GiB     25.70%    22.8MB / 6.27MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   66.60%    237.3MiB / 1GiB     23.18%    3.27MB / 12.5MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   35.97%    263.1MiB / 1GiB     25.70%    3.03MB / 10.3MB   81MB / 4.53MB    93
+07:33:17 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       59.97%    263.5MiB / 1GiB     25.73%    22.9MB / 6.29MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   36.86%    237.1MiB / 1GiB     23.16%    3.28MB / 12.5MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   22.05%    262.6MiB / 1GiB     25.64%    3.04MB / 10.3MB   81MB / 4.55MB    93
+07:33:21 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       102.08%   263.4MiB / 1GiB     25.72%    22.9MB / 6.3MB    211MB / 302MB    213
+5c99909656bc   ray-worker-a   71.74%    237.1MiB / 1GiB     23.15%    3.29MB / 12.5MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   33.56%    263.3MiB / 1GiB     25.71%    3.04MB / 10.4MB   81MB / 4.55MB    93
+07:33:26 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       116.49%   263.4MiB / 1GiB     25.72%    23MB / 6.31MB     211MB / 302MB    213
+5c99909656bc   ray-worker-a   69.29%    237.1MiB / 1GiB     23.16%    3.3MB / 12.6MB    85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   47.66%    263.1MiB / 1GiB     25.69%    3.05MB / 10.4MB   81MB / 4.57MB    93
+07:33:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       101.48%   263.8MiB / 1GiB     25.76%    23MB / 6.33MB     211MB / 302MB    213
+5c99909656bc   ray-worker-a   78.73%    237.1MiB / 1GiB     23.16%    3.3MB / 12.6MB    85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   39.16%    263.4MiB / 1GiB     25.72%    3.06MB / 10.4MB   81MB / 4.57MB    93
+07:33:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       75.34%    263.4MiB / 1GiB     25.72%    23.1MB / 6.35MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   58.44%    237.3MiB / 1GiB     23.17%    3.31MB / 12.6MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   25.29%    263.1MiB / 1GiB     25.69%    3.07MB / 10.4MB   81MB / 4.59MB    93
+07:33:39 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       96.04%    263.5MiB / 1GiB     25.73%    23.1MB / 6.36MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   68.24%    237.2MiB / 1GiB     23.16%    3.32MB / 12.6MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   37.52%    263MiB / 1GiB       25.68%    3.07MB / 10.5MB   81MB / 4.59MB    93
+07:33:44 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       203.01%   262.9MiB / 1GiB     25.68%    23.2MB / 6.37MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   80.20%    237.3MiB / 1GiB     23.17%    3.33MB / 12.7MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   29.56%    263.5MiB / 1GiB     25.73%    3.08MB / 10.5MB   81MB / 4.61MB    93
+07:33:48 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       64.24%    262.9MiB / 1GiB     25.68%    23.2MB / 6.39MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   64.13%    237.4MiB / 1GiB     23.18%    3.33MB / 12.7MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   32.01%    263.5MiB / 1GiB     25.73%    3.09MB / 10.5MB   81MB / 4.61MB    93
+07:33:53 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       89.37%    262.3MiB / 1GiB     25.62%    23.3MB / 6.4MB    211MB / 302MB    213
+5c99909656bc   ray-worker-a   49.98%    237.5MiB / 1GiB     23.20%    3.34MB / 12.7MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   31.73%    263.3MiB / 1GiB     25.71%    3.09MB / 10.5MB   81MB / 4.61MB    93
+07:33:57 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       93.90%    262.7MiB / 1GiB     25.66%    23.4MB / 6.41MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   48.62%    237.3MiB / 1GiB     23.17%    3.35MB / 12.8MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   53.72%    263.2MiB / 1GiB     25.70%    3.1MB / 10.6MB    81MB / 4.63MB    93
+07:34:01 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       64.93%    262.5MiB / 1GiB     25.64%    23.4MB / 6.43MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   51.82%    237.4MiB / 1GiB     23.19%    3.35MB / 12.8MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   27.13%    263.5MiB / 1GiB     25.73%    3.11MB / 10.6MB   81MB / 4.65MB    93
+07:34:06 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       92.06%    262.8MiB / 1GiB     25.67%    23.5MB / 6.44MB   211MB / 302MB    213
+5c99909656bc   ray-worker-a   57.66%    237.2MiB / 1GiB     23.16%    3.36MB / 12.8MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   46.04%    263.5MiB / 1GiB     25.73%    3.11MB / 10.6MB   81MB / 4.67MB    93
+07:34:10 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       85.26%    262.2MiB / 1GiB     25.61%    23.5MB / 6.45MB   211MB / 303MB    213
+5c99909656bc   ray-worker-a   62.06%    237.5MiB / 1GiB     23.19%    3.37MB / 12.9MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   26.75%    263.1MiB / 1GiB     25.70%    3.12MB / 10.6MB   81MB / 4.67MB    93
+07:34:14 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       15.77%    262.7MiB / 1GiB     25.65%    23.6MB / 6.47MB   211MB / 303MB    213
+5c99909656bc   ray-worker-a   13.84%    237.3MiB / 1GiB     23.18%    3.38MB / 12.9MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   7.42%     263.4MiB / 1GiB     25.72%    3.13MB / 10.7MB   81MB / 4.69MB    93
+07:34:19 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       15.80%    262.6MiB / 1GiB     25.64%    23.6MB / 6.48MB   211MB / 303MB    213
+5c99909656bc   ray-worker-a   4.94%     237.4MiB / 1GiB     23.19%    3.38MB / 12.9MB   85.7MB / 122MB   122
+5c09dccfde3c   ray-worker-b   3.22%     262.9MiB / 1GiB     25.68%    3.13MB / 10.7MB   81MB / 4.69MB    93
+07:34:23 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       19.27%    262.7MiB / 1GiB     25.65%    23.7MB / 6.5MB    211MB / 303MB    213
+5c99909656bc   ray-worker-a   12.13%    235.6MiB / 1GiB     23.01%    3.39MB / 12.9MB   85.7MB / 124MB   122
+5c09dccfde3c   ray-worker-b   6.31%     263MiB / 1GiB       25.68%    3.14MB / 10.7MB   81MB / 4.69MB    93
+07:34:27 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       13.35%    262.6MiB / 1GiB     25.64%    23.7MB / 6.51MB   211MB / 303MB    213
+5c99909656bc   ray-worker-a   11.22%    232.7MiB / 1GiB     22.72%    3.4MB / 13MB      85.7MB / 127MB   122
+5c09dccfde3c   ray-worker-b   9.01%     263.1MiB / 1GiB     25.70%    3.15MB / 10.7MB   81MB / 4.71MB    93
+07:34:31 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       13.61%    262.8MiB / 1GiB     25.66%    23.8MB / 6.52MB   211MB / 303MB    213
+5c99909656bc   ray-worker-a   12.47%    233MiB / 1GiB       22.75%    3.4MB / 13MB      85.7MB / 127MB   122
+5c09dccfde3c   ray-worker-b   8.38%     263.4MiB / 1GiB     25.72%    3.15MB / 10.8MB   81MB / 4.71MB    93
+07:34:35 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       20.57%    262.9MiB / 1GiB     25.67%    23.8MB / 6.53MB   211MB / 303MB    213
+5c99909656bc   ray-worker-a   10.75%    232.9MiB / 1GiB     22.74%    3.41MB / 13MB     85.7MB / 127MB   122
+5c09dccfde3c   ray-worker-b   4.23%     263.7MiB / 1GiB     25.75%    3.16MB / 10.8MB   81MB / 4.73MB    93
+07:34:39 ---
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+5648fa913d98   ray-head       25.94%    262.6MiB / 1GiB     25.65%    23.9MB / 6.55MB   211MB / 303MB    213
+5c99909656bc   ray-worker-a   31.06%    49.63MiB / 1GiB     4.85%     3.42MB / 13.1MB   86.5MB / 127MB   13
+5c09dccfde3c   ray-worker-b   26.16%    107.8MiB / 1GiB     10.53%    3.17MB / 10.8MB   81MB / 4.73MB    11
+07:34:43 ---
+07:34:48 ---
+07:34:52 ---
+07:34:55 ---
+07:34:58 ---
+07:35:01 ---
+07:35:04 ---
+07:35:07 ---
+07:35:09 ---
+07:35:11 ---
+07:35:13 ---
+07:35:15 ---
+07:35:17 ---
+07:35:19 ---
+07:35:21 ---
+07:35:23 ---
+07:35:25 ---
+07:35:27 ---
+07:35:30 ---
+07:35:32 ---
+07:35:34 ---
+07:35:36 ---
+07:35:38 ---
+07:35:40 ---
+07:35:42 ---
+07:35:44 ---
+07:35:46 ---
+07:35:48 ---
+07:35:50 ---
+07:35:53 ---
+07:35:55 ---
+07:35:57 ---
+07:35:59 ---
+07:36:01 ---
+07:36:03 ---
+07:36:05 ---
+07:36:07 ---
+07:36:09 ---
+07:36:12 ---
+07:36:14 ---
+07:36:16 ---
+07:36:18 ---
+07:36:20 ---
+07:36:22 ---
+07:36:24 ---
+07:36:26 ---
+07:36:28 ---
+07:36:31 ---
+07:36:33 ---
+07:36:35 ---
+07:36:37 ---
+07:36:40 ---
+07:36:42 ---
+07:36:44 ---
+07:36:46 ---
+07:36:48 ---
+07:36:50 ---
+07:36:52 ---
+07:36:54 ---
+07:36:56 ---
+07:36:58 ---
+07:37:00 ---
+07:37:03 ---
+07:37:05 ---
+07:37:07 ---
+07:37:09 ---
+07:37:11 ---
+07:37:13 ---
+07:37:15 ---
+07:37:18 ---
+07:37:20 ---
+07:37:22 ---
+07:37:24 ---
+07:37:26 ---
+07:37:28 ---
+07:37:30 ---
+07:37:32 ---
+07:37:34 ---
+07:37:36 ---
+07:37:39 ---
+07:37:41 ---
+07:37:43 ---
+07:37:45 ---
+07:37:47 ---
+07:37:49 ---
+07:37:51 ---
+07:37:53 ---
+07:37:55 ---
+07:37:58 ---
+07:38:00 ---
+07:38:02 ---
+07:38:04 ---
+07:38:06 ---
+07:38:08 ---
+07:38:10 ---
+07:38:12 ---
+07:38:14 ---
+07:38:16 ---
+07:38:18 ---
+07:38:20 ---
+07:38:23 ---
+07:38:25 ---
+07:38:27 ---
+07:38:29 ---
+07:38:31 ---
+07:38:33 ---
+07:38:35 ---
+07:38:37 ---
+07:38:39 ---
+07:38:41 ---
+07:38:44 ---
+07:38:46 ---
+07:38:48 ---
+07:38:50 ---
+07:38:52 ---
+07:38:54 ---
+07:38:56 ---
+07:38:58 ---
+07:39:01 ---
+07:39:03 ---
+07:39:05 ---
+07:39:07 ---
+07:39:09 ---
+07:39:11 ---
+07:39:13 ---
+07:39:15 ---
+07:39:17 ---
+07:39:19 ---
+07:39:21 ---
+07:39:24 ---
+07:39:26 ---
+07:39:28 ---
+07:39:30 ---
+07:39:32 ---
+07:39:34 ---
+07:39:36 ---
+07:39:38 ---
+07:39:40 ---
+07:39:42 ---
+07:39:44 ---
+07:39:46 ---
+07:39:49 ---
+07:39:51 ---
+07:39:53 ---
+07:39:55 ---
+07:39:57 ---
+07:39:59 ---
+07:40:01 ---
+07:40:03 ---
+07:40:05 ---
+07:40:07 ---
+07:40:09 ---
+07:40:12 ---
+07:40:14 ---
+07:40:16 ---
+07:40:18 ---
+07:40:20 ---
+07:40:22 ---
+07:40:24 ---
+07:40:27 ---
+07:40:29 ---
+07:40:31 ---
+07:40:33 ---
+07:40:35 ---
+07:40:37 ---
+07:40:39 ---
+07:40:42 ---
+07:40:44 ---
+07:40:46 ---
+07:40:48 ---
+07:40:50 ---
+07:40:52 ---
+07:40:54 ---
+07:40:56 ---
+07:40:58 ---
+07:41:00 ---
+07:41:03 ---
+07:41:05 ---
+07:41:07 ---
+07:41:09 ---
+07:41:11 ---
+07:41:13 ---
+07:41:15 ---
+07:41:17 ---
+07:41:19 ---
+07:41:21 ---
+07:41:23 ---
+07:41:26 ---
+07:41:28 ---
+07:41:30 ---
+07:41:32 ---
+07:41:34 ---
+07:41:36 ---
+07:41:38 ---
+07:41:40 ---
+07:41:42 ---
+07:41:44 ---
+07:41:46 ---
+07:41:48 ---
+07:41:50 ---
+07:41:53 ---
+07:41:55 ---
+07:41:57 ---
+07:41:59 ---
+07:42:01 ---
+07:42:03 ---
+07:42:05 ---
+07:42:07 ---
+07:42:09 ---
+07:42:11 ---
+07:42:13 ---
+07:42:16 ---
+07:42:18 ---
+07:42:20 ---
+07:42:22 ---
+07:42:24 ---
+07:42:26 ---
+07:42:28 ---
+07:42:30 ---
+07:42:32 ---
+07:42:34 ---
+07:42:37 ---
+07:42:39 ---
+07:42:41 ---
+07:42:43 ---
+07:42:45 ---
+07:42:47 ---
+07:42:49 ---
+07:42:51 ---
+07:42:54 ---
+07:42:56 ---
+07:42:58 ---
+07:43:00 ---
+07:43:02 ---
+07:43:04 ---
+07:43:06 ---
+07:43:08 ---
+07:43:10 ---
+07:43:12 ---
+07:43:15 ---
+07:43:17 ---
+07:43:19 ---
+07:43:21 ---
+07:43:23 ---
+07:43:25 ---
+07:43:27 ---
+07:43:29 ---
+07:43:31 ---
+07:43:34 ---
+07:43:36 ---
+07:43:38 ---
+07:43:40 ---
+07:43:42 ---
+07:43:44 ---
+07:43:46 ---
+07:43:48 ---
+07:43:50 ---
+07:43:52 ---
+07:43:54 ---
+07:43:56 ---
+07:43:58 ---
+07:44:01 ---
+07:44:03 ---
+07:44:05 ---
+07:44:07 ---
+07:44:09 ---
+07:44:11 ---
+07:44:14 ---
+07:44:16 ---
+07:44:18 ---
+07:44:20 ---
+07:44:22 ---
+07:44:24 ---
+07:44:26 ---
+07:44:29 ---
+07:44:31 ---
+07:44:33 ---
+07:44:35 ---
+07:44:37 ---
+07:44:39 ---
+07:44:41 ---
+07:44:43 ---
+07:44:45 ---
+07:44:48 ---
+07:44:50 ---
+07:44:52 ---
+07:44:54 ---
+07:44:57 ---
+07:44:59 ---
+07:45:01 ---
+07:45:03 ---
+07:45:06 ---
+07:45:08 ---
+07:45:10 ---
+07:45:12 ---
+07:45:14 ---
+07:45:16 ---
+07:45:18 ---
+07:45:20 ---
+07:45:22 ---
+07:45:24 ---
+07:45:27 ---
+07:45:29 ---
+07:45:31 ---
+07:45:33 ---
+07:45:35 ---
+07:45:37 ---
+07:45:39 ---
+07:45:41 ---
+07:45:44 ---
+07:45:46 ---
+07:45:48 ---
+07:45:50 ---
+07:45:52 ---
+07:45:54 ---
+07:45:56 ---
+07:45:58 ---
+07:46:00 ---
+07:46:02 ---
+07:46:05 ---
+07:46:07 ---
+07:46:09 ---
+07:46:11 ---
+07:46:14 ---
+07:46:16 ---
+07:46:18 ---
+07:46:20 ---
+07:46:22 ---
+07:46:24 ---
+07:46:26 ---
+07:46:28 ---
+07:46:30 ---
+07:46:32 ---
+07:46:34 ---
+07:46:36 ---
+07:46:38 ---
+07:46:40 ---
+07:46:42 ---
+07:46:45 ---
+07:46:47 ---
+07:46:49 ---
+07:46:51 ---
+07:46:53 ---
+07:46:55 ---
+07:46:57 ---
+07:46:59 ---
+07:47:01 ---
+07:47:03 ---
+07:47:05 ---
+07:47:07 ---
+07:47:10 ---
+07:47:12 ---
+07:47:14 ---
+07:47:16 ---
+07:47:18 ---
+07:47:20 ---
+07:47:23 ---
+07:47:25 ---
+07:47:27 ---
+07:47:29 ---
+07:47:31 ---
+07:47:33 ---
+07:47:35 ---
+07:47:37 ---
+07:47:39 ---
+07:47:41 ---
+07:47:43 ---
+07:47:46 ---
+07:47:48 ---
+07:47:50 ---
+07:47:52 ---
+07:47:54 ---
+07:47:56 ---
+07:47:58 ---
+07:48:00 ---
+07:48:02 ---
+07:48:04 ---
+07:48:06 ---
+07:48:08 ---
+07:48:11 ---
+07:48:13 ---
+07:48:15 ---
+07:48:17 ---
+07:48:19 ---
+07:48:21 ---
+07:48:23 ---
+07:48:25 ---
+07:48:27 ---
+07:48:30 ---
+07:48:32 ---
+07:48:34 ---
+07:48:36 ---
+07:48:38 ---
+07:48:41 ---
+07:48:43 ---
+07:48:45 ---
+07:48:47 ---
+07:48:49 ---
+07:48:51 ---
+07:48:53 ---
+07:48:55 ---
+07:48:57 ---
+07:48:59 ---
+07:49:03 ---
+07:49:06 ---
+07:49:08 ---
+07:49:10 ---
+07:49:12 ---
+07:49:15 ---
+07:49:17 ---
+07:49:19 ---
+07:49:21 ---
+07:49:24 ---
+07:49:26 ---
+07:49:28 ---
+07:49:31 ---
+07:49:33 ---
+07:49:35 ---
+07:49:37 ---
+07:49:39 ---
+07:49:41 ---
+07:49:44 ---
+07:49:46 ---
+07:49:48 ---
+07:49:50 ---
+07:49:52 ---
+07:49:54 ---
+07:49:57 ---
+07:49:59 ---
+07:50:01 ---
+07:50:03 ---
+07:50:06 ---
+07:50:08 ---
+07:50:10 ---
+07:50:12 ---
+07:50:14 ---
+07:50:17 ---
+07:50:19 ---
+07:50:21 ---
+07:50:23 ---
+07:50:26 ---
+07:50:28 ---
+07:50:31 ---
+07:50:33 ---
+07:50:36 ---
+07:50:38 ---
+07:50:40 ---
+07:50:42 ---
+07:50:45 ---
+07:50:47 ---
+07:50:49 ---
+07:50:52 ---
+07:50:54 ---
+07:50:56 ---
+07:50:58 ---
+07:51:01 ---
+07:51:03 ---
+07:51:05 ---
+07:51:07 ---
+07:51:10 ---
+07:51:12 ---
+07:51:14 ---
+07:51:16 ---
+07:51:19 ---
+07:51:21 ---
+07:51:23 ---
+07:51:25 ---
+07:51:28 ---
+07:51:30 ---
+07:51:32 ---
+07:51:35 ---
+07:51:37 ---
+07:51:40 ---
+07:51:42 ---
+07:51:44 ---
+07:51:46 ---
+07:51:48 ---
+07:51:50 ---
+07:51:53 ---
+07:51:55 ---
+07:51:57 ---
+07:51:59 ---
+07:52:01 ---
+07:52:03 ---
+07:52:05 ---
+07:52:07 ---
+07:52:09 ---
+07:52:12 ---
+07:52:14 ---
+07:52:16 ---
+07:52:18 ---
+07:52:20 ---
+07:52:22 ---
+07:52:24 ---
+07:52:27 ---
+07:52:29 ---
+07:52:31 ---
+07:52:34 ---
+07:52:36 ---
+07:52:38 ---
+07:52:41 ---
+07:52:43 ---
+07:52:45 ---
+07:52:47 ---
+07:52:49 ---
+07:52:51 ---
+07:52:53 ---
+07:52:55 ---
+07:52:57 ---
+07:52:59 ---
+07:53:01 ---
+07:53:04 ---
+07:53:06 ---
+07:53:08 ---
+07:53:10 ---
+07:53:12 ---
+07:53:14 ---
+07:53:17 ---
+07:53:19 ---
+07:53:21 ---
+07:53:24 ---
+07:53:26 ---
+07:53:28 ---
+07:53:30 ---
+07:53:32 ---
+07:53:35 ---
+07:53:37 ---
+07:53:39 ---
+07:53:41 ---
+07:53:43 ---
+07:53:45 ---
+07:53:47 ---
+07:53:50 ---
+07:53:52 ---
+07:53:54 ---
+07:53:56 ---
+07:53:58 ---
+07:54:01 ---
+07:54:03 ---
+07:54:05 ---
+07:54:07 ---
+07:54:09 ---
+07:54:12 ---
+07:54:14 ---
+07:54:16 ---
+07:54:18 ---
+07:54:20 ---
+07:54:23 ---
+07:54:25 ---
+07:54:27 ---
+07:54:29 ---
+07:54:32 ---
+07:54:34 ---
+07:54:37 ---
+07:54:39 ---
+07:54:41 ---
+07:54:43 ---
+07:54:45 ---
+07:54:48 ---
+07:54:50 ---
+07:54:53 ---
+07:54:55 ---
+07:54:57 ---
+07:55:00 ---
+07:55:02 ---
+07:55:04 ---
+07:55:07 ---
+07:55:09 ---
+07:55:11 ---
+07:55:16 ---
+07:55:19 ---
+07:55:21 ---
+07:55:23 ---
+07:55:25 ---
+07:55:27 ---
+07:55:29 ---
+07:55:32 ---
+07:55:34 ---
+07:55:36 ---
+07:55:38 ---
+07:55:40 ---
+07:55:43 ---
+07:55:45 ---
+07:55:47 ---
+07:55:49 ---
+07:55:51 ---
+07:55:53 ---
+07:55:56 ---
+07:55:58 ---
+07:56:00 ---
+07:56:15 ---
+07:56:17 ---
+07:56:21 ---
+07:56:27 ---
+07:56:32 ---
+07:56:38 ---
+07:56:41 ---
+07:56:43 ---
+07:56:45 ---

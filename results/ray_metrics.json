@@ -1,0 +1,13 @@
+{
+  "framework": "ray",
+  "ingestion_seconds": 18.742615381,
+  "row_count_raw": 76413180,
+  "cleansing_seconds": 278.436291774,
+  "row_count_after_cleaning": 76413173,
+  "join_seconds": 241.857326492,
+  "row_count_after_join": 76413173,
+  "udf_seconds": 263.61482911723,
+  "row_count_after_udf": 76413173,
+  "export_seconds": 491.536482936,
+  "total_seconds": 1294.187545700112
+  }

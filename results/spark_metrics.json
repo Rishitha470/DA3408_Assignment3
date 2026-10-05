@@ -1,0 +1,13 @@
+{
+  "framework": "spark",
+  "ingestion_seconds": 21.332583355000224,
+  "row_count_raw": 76413180,
+  "cleansing_seconds": 385.171149021,
+  "row_count_after_cleaning": 76413173,
+  "join_seconds": 341.02614292,
+  "row_count_after_join": 76413173,
+  "udf_seconds": 315.43407290499954,
+  "row_count_after_udf": 76413173,
+  "export_seconds": 714.7658550199994,
+  "total_seconds": 1781.3061360589995
+}
