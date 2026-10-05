@@ -1,0 +1,12 @@
+stage          spark(s)     ray(s)  ray speedup
+ingestion        21.333     18.743        1.14x
+cleaning        385.171    278.436        1.38x
+join            341.026    241.857        1.41x
+udf             315.434    263.615        1.20x
+export          714.766    491.536        1.45x
+total          1781.306   1294.188        1.38x
+
+row_count_raw: spark=76413180 ray=76413180 (match)
+row_count_after_cleaning: spark=76413173 ray=76413173 (match)
+row_count_after_join: spark=76413173 ray=76413173 (match)
+row_count_after_udf: spark=76413173 ray=76413173 (match)
